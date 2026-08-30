@@ -1,11 +1,11 @@
 {
-  "version": "2.5",
+  "version": "2.5.1",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.5/GS-Client-Version-2.5.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.5.1/GS-Client-Version-2.5.1.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.5.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.5.1.jar"
   ],
-  "sha256": "",
+  "sha256": "48aa7974d93636e6a19b27c53195325057d750bfd3bd85916c91e327d3155672",
   "min_java": 11,
-  "changelog": "Upgraded engine to RuneLite 1.12.38 (OSRS Revision 240 baseline), Sailing (#23) protocol, Varlamore/Mixology/Hueycoatl plugins, and isolated lib cache."
+  "changelog": "Added Grand Exchange simulated market plugin with live search, quantity controls, and instant buy/sell."
 }
