@@ -1,0 +1,11 @@
+{
+  "version": "2.5",
+  "name": "GirSociety Standalone Client (Rev 240)",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.5/GS-Client-Version-2.5.jar",
+  "fallback_urls": [
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.5.jar"
+  ],
+  "sha256": "",
+  "min_java": 11,
+  "changelog": "Upgraded engine to RuneLite 1.12.38 (OSRS Revision 240 baseline), Sailing (#23) protocol, Varlamore/Mixology/Hueycoatl plugins, and isolated lib cache."
+}
