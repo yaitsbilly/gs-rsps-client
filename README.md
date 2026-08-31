@@ -1,4 +1,4 @@
-# GirSociety RSPS — OSRS Revision 240 Private Server & Client
+# GirSociety RSPS CLient — Rev 240
 
 [![OSRS Revision](https://img.shields.io/badge/OSRS%20Revision-240%20(Cache%20%232664)-blue.svg?style=for-the-badge&logo=runescape)](https://github.com/yaitsbilly/gs-rsps-client)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/girsociety)
