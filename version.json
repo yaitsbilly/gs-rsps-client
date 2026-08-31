@@ -5,7 +5,7 @@
   "fallback_urls": [
     "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.6.0.jar"
   ],
-  "sha256": "ff31042c85a61731be8400e3b45040585f9f3f426beee2530b94f33a87792717",
+  "sha256": "172fda5fdf8b9e98db9c6fb79c054682770ebd54114b341a9048dfbfb47590ec",
   "min_java": 11,
   "changelog": "Added Grand Exchange simulated market plugin with live search, quantity controls, and instant buy/sell."
 }
