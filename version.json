@@ -7,5 +7,5 @@
   ],
   "sha256": "77468ce903dc97faee9fd330c87b319af2404b9ae5e23739202e76f89f659add",
   "min_java": 11,
-  "changelog": "Added Grand Exchange simulated market plugin with live search, quantity controls, and instant buy/sell."
+  "changelog": "Fixed Grand Exchange search filtering, quantity calculations (+1K, +10K, Max buy button), and banknote resolution on bulk trades."
 }
