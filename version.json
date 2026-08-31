@@ -1,11 +1,11 @@
 {
-  "version": "2.5.9",
+  "version": "2.6.0",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.5.9/GS-Client-Version-2.5.9.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.6.0/GS-Client-Version-2.6.0.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.5.9.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.6.0.jar"
   ],
-  "sha256": "77468ce903dc97faee9fd330c87b319af2404b9ae5e23739202e76f89f659add",
+  "sha256": "ff31042c85a61731be8400e3b45040585f9f3f426beee2530b94f33a87792717",
   "min_java": 11,
-  "changelog": "Fixed Grand Exchange search filtering, quantity calculations (+1K, +10K, Max buy button), and banknote resolution on bulk trades."
+  "changelog": "Added Grand Exchange simulated market plugin with live search, quantity controls, and instant buy/sell."
 }
