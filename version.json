@@ -1,11 +1,12 @@
 {
   "version": "2.6.0",
+  "title": "GirSociety Client v2.6.0 \u2014 Unified Plugin Codex Standardization",
   "name": "GirSociety Standalone Client (Rev 240)",
   "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.6.0/GS-Client-Version-2.6.0.jar",
   "fallback_urls": [
     "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.6.0.jar"
   ],
-  "sha256": "172fda5fdf8b9e98db9c6fb79c054682770ebd54114b341a9048dfbfb47590ec",
+  "sha256": "bf6ee5d56e965aba45888d8c4517d5618d7e06865b3488178fbb524dc00d2639",
   "min_java": 11,
-  "changelog": "Added Grand Exchange simulated market plugin with live search, quantity controls, and instant buy/sell."
+  "changelog": "### \ud83c\udfdb\ufe0f Unified Plugin Codex Standardization\n* **Unified Interface Names**: Standardized all 7 custom plugin windows and minimap button tooltips to the unified 'Gir-Society () Codex' format.\n* **Crafting Codex**: Renamed Forge interface to Gir-Society Crafting Codex (::forge).\n* **Bosses Codex**: Standardized Boss Directory interface to Gir-Society Bosses Codex (::bosses).\n* **Teleport Codex**: Standardized Teleportation Matrix to Gir-Society Teleport Codex (::tp).\n* **Daily Codex**: Standardized Daily Tasks & Shop to Gir-Society Daily Codex (::daily).\n* **Gambling Codex**: Standardized Highroller Casino to Gir-Society Gambling Codex (::casino).\n* **Grand Exchange Codex**: Standardized Marketplace to Gir-Society Grand Exchange Codex (::ge).\n* **Prestige Codex**: Standardized Skill Prestige to Gir-Society Prestige Codex (::prestige)."
 }
