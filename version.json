@@ -6,7 +6,7 @@
   "fallback_urls": [
     "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.6.0.jar"
   ],
-  "sha256": "b7f9ff078682e8bc5a3145d67bbf189b5c43f30c9e08aaf87228800d94d526f6",
+  "sha256": "f63c6f4b468f5050b84718c859d749ef5dd41aaef55eeb28d90b2edf5f5594cf",
   "min_java": 11,
-  "changelog": "Client update v2.6.0"
+  "changelog": "Hide daily sync debug packet from chatbox"
 }
