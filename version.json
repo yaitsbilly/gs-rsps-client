@@ -1,12 +1,12 @@
 {
-  "version": "2.6.2",
-  "title": "GirSociety Client v2.6.2 \u2014 Economy & Gold Sink Rebalance",
+  "version": "2.6.3",
+  "title": "GirSociety Client v2.6.3",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.6.2/GS-Client-Version-2.6.2.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.6.3/GS-Client-Version-2.6.3.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.6.2.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.6.3.jar"
   ],
-  "sha256": "4890e0315d810ad8faf38355247cc20bdd4986d529b720f8fdfa65770208e987",
+  "sha256": "1f920d61140439e3ae5cf6ad5acdbcab827e8b486ceb1fcaa51204139df6b143",
   "min_java": 11,
-  "changelog": "Rebalanced gold fees across all 140 crafting recipes in the Crafting Codex to align with player income tiers and daily rewards."
+  "changelog": "Added Gir-Society Crates Codex plugin with animated mystery unboxing and virtual keys"
 }
