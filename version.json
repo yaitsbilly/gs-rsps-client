@@ -1,12 +1,12 @@
 {
-  "version": "2.6.3",
-  "title": "GirSociety Client v2.6.3",
+  "version": "2.6.4",
+  "title": "GirSociety Client v2.6.4",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.6.3/GS-Client-Version-2.6.3.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.6.4/GS-Client-Version-2.6.4.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.6.3.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.6.4.jar"
   ],
-  "sha256": "1f920d61140439e3ae5cf6ad5acdbcab827e8b486ceb1fcaa51204139df6b143",
+  "sha256": "91102ef9b2779cb021e7d5cb8b7713e6aad21e261f63f894cc2935267924a89f",
   "min_java": 11,
-  "changelog": "Added Gir-Society Crates Codex plugin with animated mystery unboxing and virtual keys"
+  "changelog": "Rebalanced mystery crate gold amounts, jackpots, supplies, and drop tables"
 }
