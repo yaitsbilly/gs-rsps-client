@@ -1,12 +1,12 @@
 {
-  "version": "2.6.0",
-  "title": "GirSociety Client v2.6.0",
+  "version": "2.6.1",
+  "title": "GirSociety Client v2.6.1 \u2014 Crafting Codex Alloys & Timber Overhaul",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.6.0/GS-Client-Version-2.6.0.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.6.1/GS-Client-Version-2.6.1.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.6.0.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.6.1.jar"
   ],
-  "sha256": "4e702d2572df5ad5c86c7649d5f809a219a4ff42e275b455198d21a8147df368",
+  "sha256": "2e5f4d4d4d3bf4d7d454ad2004eb64ef6f8e1e3d7c7e468d2cff6314e47ef938",
   "min_java": 11,
-  "changelog": "Client update v2.6.0"
+  "changelog": "Separated Craft/Forge into Metal Alloys and Lumber/Timber tabs, expanded woodcraft recipes, and removed Skill Guide button overlay."
 }
