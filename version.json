@@ -6,7 +6,7 @@
   "fallback_urls": [
     "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.6.5.jar"
   ],
-  "sha256": "d9eda5772770cddf0a0c792b4a54f18ec8257d6d8ef21684cdea489e53585975",
+  "sha256": "04ca4908f138fbbfb28350ea7e1905861070999baf15e5f2cc5bb0fd8e0fd100",
   "min_java": 11,
-  "changelog": "Added Gir-Society Item Codex and Gir-Society Pets Codex plugins"
+  "changelog": "Client update v2.6.5"
 }
