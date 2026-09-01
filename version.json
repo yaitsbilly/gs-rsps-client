@@ -1,12 +1,12 @@
 {
-  "version": "2.6.1",
-  "title": "GirSociety Client v2.6.1 \u2014 Crafting Codex Alloys & Timber Overhaul",
+  "version": "2.6.2",
+  "title": "GirSociety Client v2.6.2 \u2014 Economy & Gold Sink Rebalance",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.6.1/GS-Client-Version-2.6.1.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.6.2/GS-Client-Version-2.6.2.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.6.1.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.6.2.jar"
   ],
-  "sha256": "2e5f4d4d4d3bf4d7d454ad2004eb64ef6f8e1e3d7c7e468d2cff6314e47ef938",
+  "sha256": "4890e0315d810ad8faf38355247cc20bdd4986d529b720f8fdfa65770208e987",
   "min_java": 11,
-  "changelog": "Separated Craft/Forge into Metal Alloys and Lumber/Timber tabs, expanded woodcraft recipes, and removed Skill Guide button overlay."
+  "changelog": "Rebalanced gold fees across all 140 crafting recipes in the Crafting Codex to align with player income tiers and daily rewards."
 }
