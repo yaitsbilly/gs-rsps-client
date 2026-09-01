@@ -6,7 +6,7 @@
   "fallback_urls": [
     "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.6.0.jar"
   ],
-  "sha256": "49d9f17e04c9c5f7aaacb53dbf64a4896e20f374ad5a29ee1cde0c7c1f8eb115",
+  "sha256": "84cd2f49f3f54fd16f5afc0bdc79c6daf41869a1c1e2678afabd5c7b52a147fc",
   "min_java": 11,
-  "changelog": "Filter My Collection tab to only unlocked pets"
+  "changelog": "Client update v2.6.0"
 }
