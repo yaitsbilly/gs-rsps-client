@@ -1,12 +1,12 @@
 {
   "version": "2.6.5",
-  "title": "GirSociety Client v2.6.5 \u2014 Prestige Codex OSRS Wiki Categories",
+  "title": "GirSociety Client v2.6.5",
   "name": "GirSociety Standalone Client (Rev 240)",
   "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.6.5/GS-Client-Version-2.6.5.jar",
   "fallback_urls": [
     "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.6.5.jar"
   ],
-  "sha256": "7aa086cd57f0c4fd9e1addbea1b07dca71d67723d3d7602cf09c0ba084836ac4",
+  "sha256": "d9eda5772770cddf0a0c792b4a54f18ec8257d6d8ef21684cdea489e53585975",
   "min_java": 11,
-  "changelog": "### \ud83c\udfdb\ufe0f Prestige Codex OSRS Wiki Categories Alignment\n* **Wiki Categorization**: Reorganized all skills into the 4 official OSRS skill categories: Combat, Gathering, Production, and Utility.\n* **Clean Tab Layout**: Removed the redundant 'All Skills' tab to give full visual prominence to the 4 categories.\n* **Category Balancing**: Renamed Artisan to Production, and moved Construction and Firemaking to Utility in alignment with OSRS standards."
+  "changelog": "Added Gir-Society Item Codex and Gir-Society Pets Codex plugins"
 }
