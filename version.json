@@ -1,12 +1,12 @@
 {
-  "version": "2.7.8",
-  "title": "GirSociety Client v2.7.8",
+  "version": "2.8.0",
+  "title": "GirSociety Client v2.8.0 \u2014 Native Command Dispatcher Engine Fix",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.7.8/GS-Client-Version-2.7.8.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.8.0/GS-Client-Version-2.8.0.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.7.8.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.8.0.jar"
   ],
-  "sha256": "84ae2dba6421f6fcdf793bad439a256024964d9dbc8cb4fbfa5c900d4775cabd",
+  "sha256": "3483cd256f105870782762aaf7206d484f1dae4abe1e4fbebbde6fc06a840f91",
   "min_java": 11,
-  "changelog": "v2.7.8: High-performance volatile click actions, full mouseReleased/mouseClicked event consumption to eliminate game bleed-through, sanitized chat messages"
+  "changelog": "Native Command Dispatcher Engine Fix"
 }
