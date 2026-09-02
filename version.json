@@ -1,12 +1,12 @@
 {
-  "version": "2.8.1",
-  "title": "GirSociety Client v2.8.1 \u2014 Canvas Mouse Coordinate Synchronization & Click Engine",
+  "version": "2.8.2",
+  "title": "GirSociety Client v2.8.2 \u2014 Bosses Codex Direct Coordinate Teleportation",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.8.1/GS-Client-Version-2.8.1.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.8.2/GS-Client-Version-2.8.2.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.8.1.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.8.2.jar"
   ],
-  "sha256": "a603ed66f3747ff99f99ebb3328028c92e5371aedac5febb9bc1aba944e82717",
+  "sha256": "f368fd7473016fbccb2d188e58e12d08436eadf38e4e374d7655be2fb0cd7341",
   "min_java": 11,
-  "changelog": "Canvas Mouse Coordinate Synchronization & Click Engine"
+  "changelog": "Bosses Codex Direct Coordinate Teleportation"
 }
