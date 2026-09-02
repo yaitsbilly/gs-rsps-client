@@ -1,12 +1,12 @@
 {
-  "version": "2.7.3",
-  "title": "GirSociety Client v2.7.3",
+  "version": "2.7.4",
+  "title": "GirSociety Client v2.7.4",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.7.3/GS-Client-Version-2.7.3.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.7.4/GS-Client-Version-2.7.4.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.7.3.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.7.4.jar"
   ],
-  "sha256": "24b599d073134ac386237a292d8f3ec40cba217da04dd0f9315f9c711fc0f03a",
+  "sha256": "adf40991907c03e3c595a47dc2e955fd7499d9d80d78ee2823eba93927f35095",
   "min_java": 11,
-  "changelog": "Draggable windows, clean tab layouts without text overlap, and easy selection/deselection/deletion"
+  "changelog": "Single collapsible studio window, free walk mode, paginated preset grids, and 1-per-square placement rule"
 }
