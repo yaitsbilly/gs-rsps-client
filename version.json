@@ -1,12 +1,12 @@
 {
-  "version": "2.7.5",
-  "title": "GirSociety Client v2.7.5",
+  "version": "2.6.0",
+  "title": "GirSociety Client v2.6.0",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.7.5/GS-Client-Version-2.7.5.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.6.0/GS-Client-Version-2.6.0.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.7.5.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.6.0.jar"
   ],
-  "sha256": "835ffe02a898fda0393ecc60df9a1491082a8196f830b7ba58b55489201ddfc0",
+  "sha256": "eb7cb835bfe5ef9bc5a6d7da38da3fd6fae92262d671d838195510e62fcfb886",
   "min_java": 11,
-  "changelog": "Edit & remove existing world objects, bank chest placements, and pickupable ground tools/spawns catalog"
+  "changelog": "Client update v2.6.0"
 }
