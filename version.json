@@ -1,12 +1,12 @@
 {
-  "version": "2.7.7",
-  "title": "GirSociety Client v2.7.7",
+  "version": "2.7.9",
+  "title": "GirSociety Client v2.7.9 \u2014 Boss Codex Instant Travel & Permission Safeguard",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.7.7/GS-Client-Version-2.7.7.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.7.9/GS-Client-Version-2.7.9.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.7.7.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.7.9.jar"
   ],
-  "sha256": "bc61496de4b185f0aa5763a1f297f652a2335181480d1adb0ff485dc31b37c88",
+  "sha256": "f60737968d0799f80767be841b20d6ac9660a80d9ed584377edd8c57d09d9f73",
   "min_java": 11,
-  "changelog": "v2.7.7: Thread-safe button dispatch, fixed export button position, in-inspector export button, ::export chat command"
+  "changelog": "Boss Codex Instant Travel and Permission Safeguard update"
 }
