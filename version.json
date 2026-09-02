@@ -1,12 +1,12 @@
 {
-  "version": "2.7.4",
-  "title": "GirSociety Client v2.7.4",
+  "version": "2.7.5",
+  "title": "GirSociety Client v2.7.5",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.7.4/GS-Client-Version-2.7.4.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.7.5/GS-Client-Version-2.7.5.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.7.4.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.7.5.jar"
   ],
-  "sha256": "adf40991907c03e3c595a47dc2e955fd7499d9d80d78ee2823eba93927f35095",
+  "sha256": "835ffe02a898fda0393ecc60df9a1491082a8196f830b7ba58b55489201ddfc0",
   "min_java": 11,
-  "changelog": "Single collapsible studio window, free walk mode, paginated preset grids, and 1-per-square placement rule"
+  "changelog": "Edit & remove existing world objects, bank chest placements, and pickupable ground tools/spawns catalog"
 }
