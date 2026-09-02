@@ -1,12 +1,12 @@
 {
-  "version": "2.7.7",
-  "title": "GirSociety Client v2.7.7 \u2014 Teleport Codex Instant Travel Fix",
+  "version": "2.7.8",
+  "title": "GirSociety Client v2.7.8 \u2014 Boss Codex Teleport Lair Click Fix",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.7.7/GS-Client-Version-2.7.7.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.7.8/GS-Client-Version-2.7.8.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.7.7.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.7.8.jar"
   ],
-  "sha256": "7945204a169cac390b68e60fed52346cada3b4392d2b852b3697d77978d75843",
+  "sha256": "f3a3975e2ff259951c4c45682c50a462005a8f66a4fd8870997ab3cc544225f7",
   "min_java": 11,
-  "changelog": "Teleport Codex instant travel via native CS2 CHAT_SEND and pt.bj cheat dispatch"
+  "changelog": "Boss Codex Teleport Lair button hitbox and multi-event click detection fix"
 }
