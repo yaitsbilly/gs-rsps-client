@@ -1,12 +1,12 @@
 {
-  "version": "2.7.9",
-  "title": "GirSociety Client v2.7.9",
+  "version": "2.8.3",
+  "title": "GirSociety Client v2.8.3 \u2014 Authentic Rev 240 Command Packet Sender Fix",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.7.9/GS-Client-Version-2.7.9.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.8.3/GS-Client-Version-2.8.3.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.7.9.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.8.3.jar"
   ],
-  "sha256": "d9f540324feb66729e8cc6754faf7ff9ed6737c0bdced4b283f128ada9b864f8",
+  "sha256": "8589200eeabc066860f32cec71d8a1ce80652141564f464c0e81deecdf639f37",
   "min_java": 11,
-  "changelog": "v2.7.9: Volatile multi-threaded state management, gapless tab hitboxes, auto-clearing in-progress traversal linking when switching tabs"
+  "changelog": "Authentic Rev 240 Command Packet Sender Fix"
 }
