@@ -1,12 +1,12 @@
 {
-  "version": "2.7.6",
-  "title": "GirSociety Client v2.7.6",
+  "version": "2.7.7",
+  "title": "GirSociety Client v2.7.7 \u2014 Teleport Codex Instant Travel Fix",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.7.6/GS-Client-Version-2.7.6.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.7.7/GS-Client-Version-2.7.7.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.7.6.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.7.7.jar"
   ],
-  "sha256": "3937e985c6ea7a4e0ee4f23ec2ca59cbf22ff112eb5afb68c2716d2afb998957",
+  "sha256": "7945204a169cac390b68e60fed52346cada3b4392d2b852b3697d77978d75843",
   "min_java": 11,
-  "changelog": "Fix titlebar button clicks (Export RSMod, Undo, Redo, Delete), add status footer bar and in-game chat export feedback"
+  "changelog": "Teleport Codex instant travel via native CS2 CHAT_SEND and pt.bj cheat dispatch"
 }
