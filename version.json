@@ -1,12 +1,12 @@
 {
-  "version": "2.6.0",
-  "title": "GirSociety Client v2.6.0",
+  "version": "2.7.6",
+  "title": "GirSociety Client v2.7.6 \u2014 Boss Codex Teleport Lair Fix",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.6.0/GS-Client-Version-2.6.0.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.7.6/GS-Client-Version-2.7.6.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.6.0.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.7.6.jar"
   ],
-  "sha256": "eb7cb835bfe5ef9bc5a6d7da38da3fd6fae92262d671d838195510e62fcfb886",
+  "sha256": "894789157d3f742b780c4aad551dc1ee03decb5ec514771a59824fbe54da4038",
   "min_java": 11,
-  "changelog": "Client update v2.6.0"
+  "changelog": "Fix Bosses Codex Teleport Lair button integration with ::tp and add Endgame boss destinations"
 }
