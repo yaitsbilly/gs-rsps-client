@@ -1,12 +1,12 @@
 {
-  "version": "2.8.0",
-  "title": "GirSociety Client v2.8.0 \u2014 Teleport Codex Instant Travel Fix",
+  "version": "2.7.8",
+  "title": "GirSociety Client v2.7.8",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.8.0/GS-Client-Version-2.8.0.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.7.8/GS-Client-Version-2.7.8.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.8.0.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.7.8.jar"
   ],
-  "sha256": "843ce30b91c63bd809cb2b1724d768aca2216306b02356e18acafd677bf7a7f5",
+  "sha256": "84ae2dba6421f6fcdf793bad439a256024964d9dbc8cb4fbfa5c900d4775cabd",
   "min_java": 11,
-  "changelog": "Fix Teleport Codex instant teleport using clean pt.bj packet sender"
+  "changelog": "v2.7.8: High-performance volatile click actions, full mouseReleased/mouseClicked event consumption to eliminate game bleed-through, sanitized chat messages"
 }
