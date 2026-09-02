@@ -1,12 +1,12 @@
 {
-  "version": "2.7.2",
-  "title": "GirSociety Client v2.7.2",
+  "version": "2.7.3",
+  "title": "GirSociety Client v2.7.3",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.7.2/GS-Client-Version-2.7.2.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.7.3/GS-Client-Version-2.7.3.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.7.2.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.7.3.jar"
   ],
-  "sha256": "c49fa9dfbbffead085cff18f122ceeaf8b9d10f500ae81238c1e2930f6f81430",
+  "sha256": "24b599d073134ac386237a292d8f3ec40cba217da04dd0f9315f9c711fc0f03a",
   "min_java": 11,
-  "changelog": "Expanded 3D World Studio: Ladders, Chests, Ground Items, Stalls, Farming Patches, and Custom Shops"
+  "changelog": "Draggable windows, clean tab layouts without text overlap, and easy selection/deselection/deletion"
 }
