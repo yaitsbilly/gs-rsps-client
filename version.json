@@ -1,12 +1,12 @@
 {
-  "version": "2.7.0",
-  "title": "GirSociety Client v2.7.0",
+  "version": "2.7.1",
+  "title": "GirSociety Client v2.7.1",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.7.0/GS-Client-Version-2.7.0.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.7.1/GS-Client-Version-2.7.1.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.7.0.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.7.1.jar"
   ],
-  "sha256": "c9472b8f593f5a45b5ed5b382bedfcec049f17ac2ead380b23b6228a36aa4d02",
+  "sha256": "19a59e783b7c44977cfdf99a382529cefdf0007e8ff49d2815c0c0cf99054f2b",
   "min_java": 11,
-  "changelog": "Fix Teleport Codex and Boss Codex teleport actions via packet cheat dispatcher"
+  "changelog": "Add GirSociety In-Game 3D World and Spawn Studio Plugin"
 }
