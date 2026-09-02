@@ -6,7 +6,7 @@
   "fallback_urls": [
     "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.7.1.jar"
   ],
-  "sha256": "19a59e783b7c44977cfdf99a382529cefdf0007e8ff49d2815c0c0cf99054f2b",
+  "sha256": "5a4207ae02ad95184e9dc045fe572201e0ddc6e5c1b799bf1883b521372af704",
   "min_java": 11,
-  "changelog": "Add GirSociety In-Game 3D World and Spawn Studio Plugin"
+  "changelog": "Add Tree, Rock, Bank, Banker, and Portal Studio tools"
 }
