@@ -1,12 +1,12 @@
 {
-  "version": "2.7.1",
-  "title": "GirSociety Client v2.7.1",
+  "version": "2.7.2",
+  "title": "GirSociety Client v2.7.2",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.7.1/GS-Client-Version-2.7.1.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.7.2/GS-Client-Version-2.7.2.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.7.1.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.7.2.jar"
   ],
-  "sha256": "5a4207ae02ad95184e9dc045fe572201e0ddc6e5c1b799bf1883b521372af704",
+  "sha256": "c49fa9dfbbffead085cff18f122ceeaf8b9d10f500ae81238c1e2930f6f81430",
   "min_java": 11,
-  "changelog": "Add Tree, Rock, Bank, Banker, and Portal Studio tools"
+  "changelog": "Expanded 3D World Studio: Ladders, Chests, Ground Items, Stalls, Farming Patches, and Custom Shops"
 }
