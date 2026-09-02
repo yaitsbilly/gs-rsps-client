@@ -1,12 +1,12 @@
 {
-  "version": "2.6.0",
-  "title": "GirSociety Client v2.6.0",
+  "version": "2.6.6",
+  "title": "GirSociety Client v2.6.6 \u2014 Expanded Item Codex Craftables",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.6.0/GS-Client-Version-2.6.0.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.6.6/GS-Client-Version-2.6.6.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.6.0.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.6.6.jar"
   ],
-  "sha256": "934a616481bf02de89fd935fb9fc4130f689113e8d0c1e63ed0d0e5d711741c4",
+  "sha256": "06ae16b028d9583767578882ad0c095e8024fa8e905a8a3b542714fea2cebe7f",
   "min_java": 11,
-  "changelog": "Client update v2.6.0"
+  "changelog": "### \u2692\ufe0f Item Codex Craftables Update\n* **Expanded Craftables**: Added Dragonfire Shield, Dragonfire Ward, Armadyl Godsword, Bandos Godsword, Fortified Masori Body, and Sunblade of Solaris to the Craftables catalog.\n* **Scroll & Search**: Verified smooth scrolling and full query filtering across all 10 craftables and 5 metal alloys."
 }
