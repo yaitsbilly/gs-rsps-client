@@ -1,12 +1,12 @@
 {
-  "version": "2.6.7",
-  "title": "GirSociety Client v2.6.7",
+  "version": "2.6.8",
+  "title": "GirSociety Client v2.6.8",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.6.7/GS-Client-Version-2.6.7.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.6.8/GS-Client-Version-2.6.8.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.6.7.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.6.8.jar"
   ],
-  "sha256": "2f67cba1e2c717c6b441bd93c70513c6697d8ea24760ed5412d210ebbbc45c22",
+  "sha256": "0f709ce7a863d848a905c413aee6e1e4bd6ed2341010f182a5b7e5e758e253e7",
   "min_java": 11,
-  "changelog": "Fixed Teleport Codex command dispatch and permissions"
+  "changelog": "Enhanced mouse click handling and tp command dispatch"
 }
