@@ -1,12 +1,12 @@
 {
-  "version": "2.6.9",
-  "title": "GirSociety Client v2.6.9",
+  "version": "2.7.0",
+  "title": "GirSociety Client v2.7.0",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.6.9/GS-Client-Version-2.6.9.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.7.0/GS-Client-Version-2.7.0.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.6.9.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.7.0.jar"
   ],
-  "sha256": "34bb8898f3a0e85f702123b3c97409c59e32b5f600d978fa1187b86ae11389f1",
+  "sha256": "c9472b8f593f5a45b5ed5b382bedfcec049f17ac2ead380b23b6228a36aa4d02",
   "min_java": 11,
-  "changelog": "Add 26+ new craftables to Item Codex (Weapons, Tools, Armor, Jewellery, Solaris Masterwork)"
+  "changelog": "Fix Teleport Codex and Boss Codex teleport actions via packet cheat dispatcher"
 }
