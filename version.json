@@ -6,7 +6,7 @@
   "fallback_urls": [
     "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.7.6.jar"
   ],
-  "sha256": "cd528fe678f9cb40fea5761d8005a13a78af55ffd80a3866d899a50328760f7d",
+  "sha256": "3937e985c6ea7a4e0ee4f23ec2ca59cbf22ff112eb5afb68c2716d2afb998957",
   "min_java": 11,
-  "changelog": "Fix Teleport Codex command packet dispatch and add fallback CS2 chat script"
+  "changelog": "Fix titlebar button clicks (Export RSMod, Undo, Redo, Delete), add status footer bar and in-game chat export feedback"
 }
