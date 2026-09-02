@@ -1,12 +1,12 @@
 {
-  "version": "2.7.9",
-  "title": "GirSociety Client v2.7.9 \u2014 Boss Codex Instant Travel & Permission Safeguard",
+  "version": "2.8.0",
+  "title": "GirSociety Client v2.8.0 \u2014 Teleport Codex Instant Travel Fix",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.7.9/GS-Client-Version-2.7.9.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.8.0/GS-Client-Version-2.8.0.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.7.9.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.8.0.jar"
   ],
-  "sha256": "f60737968d0799f80767be841b20d6ac9660a80d9ed584377edd8c57d09d9f73",
+  "sha256": "843ce30b91c63bd809cb2b1724d768aca2216306b02356e18acafd677bf7a7f5",
   "min_java": 11,
-  "changelog": "Boss Codex Instant Travel and Permission Safeguard update"
+  "changelog": "Fix Teleport Codex instant teleport using clean pt.bj packet sender"
 }
