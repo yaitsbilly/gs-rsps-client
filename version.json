@@ -1,12 +1,12 @@
 {
-  "version": "2.6.0",
-  "title": "GirSociety Client v2.6.0",
+  "version": "2.7.6",
+  "title": "GirSociety Client v2.7.6",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.6.0/GS-Client-Version-2.6.0.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.7.6/GS-Client-Version-2.7.6.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.6.0.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.7.6.jar"
   ],
-  "sha256": "e12fc606daef5954851a5762914de8a3fda409034338e7f4c1b86672710ae162",
+  "sha256": "cd528fe678f9cb40fea5761d8005a13a78af55ffd80a3866d899a50328760f7d",
   "min_java": 11,
-  "changelog": "Client update v2.6.0"
+  "changelog": "Fix Teleport Codex command packet dispatch and add fallback CS2 chat script"
 }
