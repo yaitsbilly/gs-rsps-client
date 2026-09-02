@@ -1,12 +1,12 @@
 {
-  "version": "2.7.8",
-  "title": "GirSociety Client v2.7.8 \u2014 Teleport Codex Instant Travel Fix",
+  "version": "2.7.7",
+  "title": "GirSociety Client v2.7.7",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.7.8/GS-Client-Version-2.7.8.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.7.7/GS-Client-Version-2.7.7.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.7.8.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.7.7.jar"
   ],
-  "sha256": "efe973b50a2c61ab090e2de65810df8d20319a339b6a8c41003244a804c7bea4",
+  "sha256": "bc61496de4b185f0aa5763a1f297f652a2335181480d1adb0ff485dc31b37c88",
   "min_java": 11,
-  "changelog": "Teleport Codex instant travel via pt.bj Jagex packet sender"
+  "changelog": "v2.7.7: Thread-safe button dispatch, fixed export button position, in-inspector export button, ::export chat command"
 }
