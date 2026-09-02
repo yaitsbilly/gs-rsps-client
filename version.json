@@ -1,12 +1,12 @@
 {
-  "version": "2.8.0",
-  "title": "GirSociety Client v2.8.0",
+  "version": "2.8.4",
+  "title": "GirSociety Client v2.8.4 \u2014 Native CS2 CHAT_SEND (5517) Command Execution Engine",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.8.0/GS-Client-Version-2.8.0.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.8.4/GS-Client-Version-2.8.4.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.8.0.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.8.4.jar"
   ],
-  "sha256": "3a144cec38f9e5928a2e72f3af501a4629d63ad0fb911de43c67ab67adb45e47",
+  "sha256": "5e9cad5ea35e3d83f77021548ae2caccbe5bbea61cb68c1b4cd99f5a170cd7f2",
   "min_java": 11,
-  "changelog": "v2.8.0: Fixed window drag desync by disabling RuneLite preferredLocation translation, making window bounds volatile, and updating click hitboxes in real-time during window moves"
+  "changelog": "Native CS2 CHAT_SEND (5517) Command Execution Engine"
 }
