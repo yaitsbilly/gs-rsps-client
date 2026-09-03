@@ -1,12 +1,12 @@
 {
-  "version": "2.8.5",
-  "title": "GirSociety Client v2.8.5 \u2014 Deep-Dive In-Game Diagnostic Engine & Task Scheduler Persistence",
+  "version": "2.8.6",
+  "title": "GirSociety Client v2.8.6 \u2014 Visual On-Screen Version Verification & Guaranteed Unfiltered Broadcast",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.8.5/GS-Client-Version-2.8.5.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.8.6/GS-Client-Version-2.8.6.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.8.5.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.8.6.jar"
   ],
-  "sha256": "188acab278bf5c4f3b995f56308ed5277725153b46494f8c04cd6fe7fb5e95e6",
+  "sha256": "92850a3ce7ac987d0b93049642ccbdae1bc29407e779cb99d4a540fc317c5385",
   "min_java": 11,
-  "changelog": "Deep-Dive In-Game Diagnostic Engine & Task Scheduler Persistence"
+  "changelog": "Visual On-Screen Version Verification & Guaranteed Unfiltered Broadcast"
 }
