@@ -1,12 +1,12 @@
 {
-  "version": "2.8.7",
-  "title": "GirSociety Client v2.8.7 \u2014 AWT Thread Event Dispatch Repair & Dual-Pipeline Instant Travel",
+  "version": "2.8.8",
+  "title": "GirSociety Client v2.8.8 \u2014 Native Command Dispatcher Pipeline (client.mb) & AWT Thread Exception Purge",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.8.7/GS-Client-Version-2.8.7.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.8.8/GS-Client-Version-2.8.8.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.8.7.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.8.8.jar"
   ],
-  "sha256": "4353bd85cf7e64cd5d955383df768f79dea62bfede0cedeb968d129e65aa8b75",
+  "sha256": "c90f12e20190936c745de62e7d248413f45c7a92ce4bc426c13e2e38506f85d4",
   "min_java": 11,
-  "changelog": "AWT Thread Event Dispatch Repair & Dual-Pipeline Instant Travel"
+  "changelog": "Native Command Dispatcher Pipeline (client.mb) & AWT Thread Exception Purge"
 }
