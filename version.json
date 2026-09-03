@@ -1,12 +1,12 @@
 {
-  "version": "2.9.3",
-  "title": "GirSociety Client v2.9.3",
+  "version": "2.9.4",
+  "title": "GirSociety Client v2.9.4",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.9.3/GS-Client-Version-2.9.3.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.9.4/GS-Client-Version-2.9.4.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.9.3.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.9.4.jar"
   ],
-  "sha256": "c6ea0c73783a7766432ff49bea0956efd88e4eed783d64cd5977d7301f6fb8fa",
+  "sha256": "a20bfe69ffaee3db329417ea67997d87cc5233564288ca8f14710c10c7820641",
   "min_java": 11,
-  "changelog": "Crates Codex unboxing and reward system repair"
+  "changelog": "Added Admin Control Panel plugin with F7 hotkey, online user directory, moderation tools, and skill/XP editor"
 }
