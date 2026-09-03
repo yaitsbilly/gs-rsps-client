@@ -1,12 +1,12 @@
 {
-  "version": "2.9.4",
-  "title": "GirSociety Client v2.9.4",
+  "version": "2.9.5",
+  "title": "GirSociety Client v2.9.5",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.9.4/GS-Client-Version-2.9.4.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.9.5/GS-Client-Version-2.9.5.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.9.4.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.9.5.jar"
   ],
-  "sha256": "a20bfe69ffaee3db329417ea67997d87cc5233564288ca8f14710c10c7820641",
+  "sha256": "4565a505dbaddcd1bb6398e0e0eaf9e445ad8761dc1321c330b5a3c8ca56dcbd",
   "min_java": 11,
-  "changelog": "Added Admin Control Panel plugin with F7 hotkey, online user directory, moderation tools, and skill/XP editor"
+  "changelog": "Added verify confirmation window before taking any action on a user in the Admin Control Panel"
 }
