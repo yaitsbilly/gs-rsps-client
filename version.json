@@ -1,12 +1,12 @@
 {
-  "version": "2.9.5",
-  "title": "GirSociety Client v2.9.5",
+  "version": "2.6.0",
+  "title": "GirSociety Client v2.6.0",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.9.5/GS-Client-Version-2.9.5.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.6.0/GS-Client-Version-2.6.0.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.9.5.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.6.0.jar"
   ],
-  "sha256": "4565a505dbaddcd1bb6398e0e0eaf9e445ad8761dc1321c330b5a3c8ca56dcbd",
+  "sha256": "1cf5e0ad62d91849428c366928ded39ac4c9620628791c802927e3d565203a0b",
   "min_java": 11,
-  "changelog": "Added verify confirmation window before taking any action on a user in the Admin Control Panel"
+  "changelog": "Client update v2.6.0"
 }
