@@ -1,12 +1,12 @@
 {
-  "version": "2.9.0",
-  "title": "GirSociety Client v2.9.0",
+  "version": "2.9.1",
+  "title": "GirSociety Client v2.9.1",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.9.0/GS-Client-Version-2.9.0.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.9.1/GS-Client-Version-2.9.1.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.9.0.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.9.1.jar"
   ],
-  "sha256": "94861268c10371f1e5c80982b0c51c49bf5ace260b072c5c16cc8eeccda986fe",
+  "sha256": "c4f85fa22ebd148f23c23173319cae9ba5f086a5d6e3b5d4002745beefda8ac3",
   "min_java": 11,
-  "changelog": "World Editor Kotlin Script Exporter Fix"
+  "changelog": "World Object Selection and Live Deletion Sync"
 }
