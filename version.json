@@ -1,12 +1,12 @@
 {
-  "version": "2.9.2",
-  "title": "GirSociety Client v2.9.2",
+  "version": "2.9.3",
+  "title": "GirSociety Client v2.9.3",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.9.2/GS-Client-Version-2.9.2.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.9.3/GS-Client-Version-2.9.3.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.9.2.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.9.3.jar"
   ],
-  "sha256": "d3d310a96e17d0b8b029f86c014817b22425bf9875850b32bdd23a1e6cafe2a0",
+  "sha256": "c6ea0c73783a7766432ff49bea0956efd88e4eed783d64cd5977d7301f6fb8fa",
   "min_java": 11,
-  "changelog": "Integrate Removed Objects into CustomObjectsScript.kt"
+  "changelog": "Crates Codex unboxing and reward system repair"
 }
