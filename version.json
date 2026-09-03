@@ -1,12 +1,12 @@
 {
-  "version": "2.8.9",
-  "title": "GirSociety Client v2.8.9",
+  "version": "2.9.0",
+  "title": "GirSociety Client v2.9.0",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.8.9/GS-Client-Version-2.8.9.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.9.0/GS-Client-Version-2.9.0.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.8.9.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.9.0.jar"
   ],
-  "sha256": "8fd96aff1902745652299c2eada9116b6998d83f0f89d1b2ed2d22598bf62a59",
+  "sha256": "94861268c10371f1e5c80982b0c51c49bf5ace260b072c5c16cc8eeccda986fe",
   "min_java": 11,
-  "changelog": "Interactive 3D Studio Window Hitbox & Menu Interception Fix"
+  "changelog": "World Editor Kotlin Script Exporter Fix"
 }
