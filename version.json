@@ -1,12 +1,12 @@
 {
-  "version": "2.8.6",
-  "title": "GirSociety Client v2.8.6 \u2014 Visual On-Screen Version Verification & Guaranteed Unfiltered Broadcast",
+  "version": "2.8.7",
+  "title": "GirSociety Client v2.8.7 \u2014 AWT Thread Event Dispatch Repair & Dual-Pipeline Instant Travel",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.8.6/GS-Client-Version-2.8.6.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.8.7/GS-Client-Version-2.8.7.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.8.6.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.8.7.jar"
   ],
-  "sha256": "92850a3ce7ac987d0b93049642ccbdae1bc29407e779cb99d4a540fc317c5385",
+  "sha256": "4353bd85cf7e64cd5d955383df768f79dea62bfede0cedeb968d129e65aa8b75",
   "min_java": 11,
-  "changelog": "Visual On-Screen Version Verification & Guaranteed Unfiltered Broadcast"
+  "changelog": "AWT Thread Event Dispatch Repair & Dual-Pipeline Instant Travel"
 }
