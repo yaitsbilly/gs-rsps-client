@@ -1,12 +1,12 @@
 {
-  "version": "2.9.1",
-  "title": "GirSociety Client v2.9.1",
+  "version": "2.9.2",
+  "title": "GirSociety Client v2.9.2",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.9.1/GS-Client-Version-2.9.1.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.9.2/GS-Client-Version-2.9.2.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.9.1.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.9.2.jar"
   ],
-  "sha256": "c4f85fa22ebd148f23c23173319cae9ba5f086a5d6e3b5d4002745beefda8ac3",
+  "sha256": "d3d310a96e17d0b8b029f86c014817b22425bf9875850b32bdd23a1e6cafe2a0",
   "min_java": 11,
-  "changelog": "World Object Selection and Live Deletion Sync"
+  "changelog": "Integrate Removed Objects into CustomObjectsScript.kt"
 }
