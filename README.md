@@ -3,7 +3,7 @@
 [![OSRS Revision](https://img.shields.io/badge/OSRS%20Revision-240%20(Cache%20%232664)-blue.svg?style=for-the-badge&logo=runescape)](https://github.com/yaitsbilly/gs-rsps-client)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/girsociety)
 [![Engine](https://img.shields.io/badge/Client%20Engine-RuneLite%201.12.38-orange.svg?style=for-the-badge)](https://github.com/yaitsbilly/gs-rsps-client)
-[![Latest Client](https://img.shields.io/badge/Client%20Build-v2.6.4-brightgreen.svg?style=for-the-badge)](https://github.com/yaitsbilly/gs-rsps-client/releases)
+[![Latest Client](https://img.shields.io/badge/Client%20Build-v3.0.0-brightgreen.svg?style=for-the-badge)](https://github.com/yaitsbilly/gs-rsps-client/releases)
 [![Auto Update](https://img.shields.io/badge/Auto--Update-GitHub%20Releases-green.svg?style=for-the-badge&logo=github)](https://github.com/yaitsbilly/gs-rsps-client/releases)
 [![License](https://img.shields.io/badge/License-ISC-purple.svg?style=for-the-badge)](https://github.com/yaitsbilly/gs-rsps-client)
 
@@ -32,9 +32,10 @@ An interactive unboxing minigame and reward economy integrated across the entire
 
 ---
 
-### ⚒️ 3. Custom Item Infusion & Multi-Station Crafting Codex
-GirSociety features a deep, custom crafting and upgrade economy with **over 1,900+ custom recipes** across 10 organized tabs (`::forge` / `::craft`):
-* **Dedicated Tabs**: Equipment Infusions, Dismantling, Weapons, Armor, Jewelry, Tools, Catalysts, alongside dedicated **Metal Alloys** (Furnace smelting) and **Lumber & Timber** (Fletching & Woodworking).
+### ⚒️ 3. Gir-Society Item Codex & Custom Multi-Station Crafting
+GirSociety features a deep, custom crafting and upgrade economy with **over 1,900+ custom recipes** across 10 organized tabs (`::items` / `::craft` / `::forge` / `::codex`):
+* **6 Comprehensive Codex Tabs**: `All Items`, `⚒ Craftables`, `🧪 Ingredients`, `☠ Boss Drops`, `⚔ Mob & Slayer`, and `📦 Crate Drops` with direct boss sources and teleport links.
+* **Combat Stats & Mechanics**: Live equipment combat stats grid (Stab/Slash/Crush/Magic/Ranged bonuses, Melee/Ranged strength, Magic dmg %, Prayer, Speed).
 * **Item Infusion & Empowerment**: Combine rare boss drops with base gear to forge fortified and infused equipment (Infused Godswords, Abyssal Tentacles, Fortified Masori, Torva upgrades).
 * **Salvage & Dismantling**: Break down surplus high-tier equipment into Forging Shards and Essences.
 * **Tiered Materials & Catalysts**: Craft custom alloys (Sandstone Bronze, Treated Heartwood, Moss-Tempered Steel, Crypt Chitin Ingots, and Void Alloys) with Catalyst Stones to prevent item degradation on failure.
@@ -42,10 +43,12 @@ GirSociety features a deep, custom crafting and upgrade economy with **over 1,90
 
 ---
 
-### 🐾 4. Expansive Pet & Follower System (50+ Pets)
-A massive companion system supporting dialogue, summon animations, and follower interactions:
+### 🐾 4. Gir-Society Pets Codex & Follower System (55+ Companions)
+A massive companion system supporting lore, summon animations, and live progress tracking (`::pets` / `::pet` / `::petcodex`):
+* **5 Companion Categories**: `Boss Pets`, `🌲 Skilling Pets`, `⚔ Custom Pets`, `📦 Crate / Minigames`, and `★ My Collection`.
 * **Standard & Varlamore Pets**: Huey, Nid, Scurry, Amoxliatl Pet, Quetzal, Tiny Tempor, Abyssal Protector, Muphin, Wisp, Butch, Baron, Lil' Viathan, and all classic skilling & boss pets.
 * **Custom Companion Pets**: Baby Grashnak, Miniature Treant, Mini Yeti, Baby Dune Golem, Baby Crypt Scuttler, Coiled Viper, Rust Golem, Crimson Bat, Shadow Whelp, Pulsing Star Core, Mini Abyssal Larva, Revenant Crypt Lord, Behemoth Hatchling, Wyrmlord Hatchling, Solar Dragon Hatchling, and Chibi Noxus Titan.
+* **Live Unlock Tracker**: Real-time account scan tracking pets in backpack, bank, and active follower (`✔ X / Total (Y%)`).
 
 ---
 
@@ -97,6 +100,12 @@ Server-verified wagering games with atomic balance checks and anti-scam guards (
 
 ---
 
+### 🛡️ 11. Staff Management Studio & 3D World Editor
+* **Admin Control Panel (`F7` Hotkey)**: Complete in-client management studio featuring real-time player directory, interactive moderation suite (kick/mute/ban with modal confirmation), 24-skill XP & level studio, and searchable Item Spawner catalog.
+* **In-Game World & Spawn Studio**: 3D scene editor allowing developers and admins to place/remove objects, spawn NPCs, visualize bounding boxes, and export map definitions directly to JSON.
+
+---
+
 ## 🎮 How to Play
 
 ### 1. Download the Launcher
@@ -128,7 +137,7 @@ graph LR
 ---
 
 ## 📦 Client Releases & Versioning
-All official client builds are versioned following Semantic Versioning (`v2.6.x`) and published directly to GitHub Releases with SHA-256 checksums documented in [`version.json`](version.json).
+All official client builds are versioned following Semantic Versioning (`v3.0.x`) and published directly to GitHub Releases with SHA-256 checksums documented in [`version.json`](version.json).
 
 ---
 
