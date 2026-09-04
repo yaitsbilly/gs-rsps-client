@@ -1,12 +1,12 @@
 {
-  "version": "3.0.3",
+  "version": "3.0.4",
   "title": "GirSociety Client v3.0.2",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.0.3/GS-Client-Version-3.0.3.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.0.4/GS-Client-Version-3.0.4.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.0.3.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.0.4.jar"
   ],
-  "sha256": "3891ad7a054cca39a72f8f50e4d02fc5b6d02cb394a605b3e273b895f6e409d0",
+  "sha256": "b5ca603b5fa02c28cd44a534b4174c871f62ba66729f3c90d56fa77e3ad98643",
   "min_java": 11,
-  "changelog": "Filter null NPCs in World Editor, null-safe exporter guards"
+  "changelog": "Added Reboot and Restart button to 3D Studio window and Inspector tab"
 }
