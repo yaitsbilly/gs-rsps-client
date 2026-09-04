@@ -1,12 +1,12 @@
 {
-  "version": "2.9.7",
-  "title": "GirSociety Client v2.9.7",
+  "version": "2.9.8",
+  "title": "GirSociety Client v2.9.8",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.9.7/GS-Client-Version-2.9.7.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.9.8/GS-Client-Version-2.9.8.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.9.7.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.9.8.jar"
   ],
-  "sha256": "43a6eb1d4b2098d03434979591a4783f15367bf7042df42ae4bd351a6dbeae03",
+  "sha256": "f5b09831bb74e07d738be40a6704dd628e6d0ea0c7e2a53c2cd6d3ab7cfc54c0",
   "min_java": 11,
-  "changelog": "Fix item catalog clientThread indexing"
+  "changelog": "Fix double spawn, inventory gaps, gold search, banknote stacking"
 }
