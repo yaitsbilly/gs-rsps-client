@@ -1,12 +1,12 @@
 {
-  "version": "3.0.8",
+  "version": "3.0.9",
   "title": "GirSociety Client v3.0.7",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.0.8/GS-Client-Version-3.0.8.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.0.9/GS-Client-Version-3.0.9.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.0.8.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.0.9.jar"
   ],
-  "sha256": "492e44c039506af606a4f34fe2a291299c89ed9ea7da43a0ae9ff28666f79008",
+  "sha256": "2564042cadd4c25a907035990bb4b4dde52c2ab7c723216469a1e51db2028da6",
   "min_java": 11,
-  "changelog": "Curated Gir-Society Admin Spawner filter with full Item Codex craftables and Bosses Codex drops"
+  "changelog": "Gir-Society journal menu interactive click, hover highlight, and high priority menu entry engine"
 }
