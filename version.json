@@ -1,12 +1,12 @@
 {
-  "version": "2.9.6",
-  "title": "GirSociety Client v2.9.6",
+  "version": "2.9.7",
+  "title": "GirSociety Client v2.9.7",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.9.6/GS-Client-Version-2.9.6.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.9.7/GS-Client-Version-2.9.7.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.9.6.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.9.7.jar"
   ],
-  "sha256": "8394c51197baf28b9b4be9d20178c932b2f1a958761fc7fca25123e9e2f89038",
+  "sha256": "43a6eb1d4b2098d03434979591a4783f15367bf7042df42ae4bd351a6dbeae03",
   "min_java": 11,
-  "changelog": "Admin Item Spawner and RBAC Controls"
+  "changelog": "Fix item catalog clientThread indexing"
 }
