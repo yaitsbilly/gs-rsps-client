@@ -1,12 +1,12 @@
 {
-  "version": "3.0.1",
-  "title": "GirSociety Client v3.0.1",
+  "version": "3.0.2",
+  "title": "GirSociety Client v3.0.2",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.0.1/GS-Client-Version-3.0.1.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.0.2/GS-Client-Version-3.0.2.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.0.1.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.0.2.jar"
   ],
-  "sha256": "dd846d0c808b5bb886770b16d38f102945693c2819717ebc3eb05c81e1888aed",
+  "sha256": "8261add5b61d28c5b011e1fa813fa8c8a6b0083e241711380b3a7efdf9b479d9",
   "min_java": 11,
-  "changelog": "3D Studio World Editor exporter upgrade with Inspector state reset and relocation script generator"
+  "changelog": "Admin Control Panel F6 toggle alignment, thread-safe player directory, and multi-word username parsing"
 }
