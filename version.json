@@ -1,12 +1,12 @@
 {
-  "version": "2.9.8",
-  "title": "GirSociety Client v2.9.8",
+  "version": "2.9.9",
+  "title": "GirSociety Client v2.9.9",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.9.8/GS-Client-Version-2.9.8.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.9.9/GS-Client-Version-2.9.9.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.9.8.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.9.9.jar"
   ],
-  "sha256": "f5b09831bb74e07d738be40a6704dd628e6d0ea0c7e2a53c2cd6d3ab7cfc54c0",
+  "sha256": "1e5345350f44a0a39ca99ed8cf68aae9fd60ee4e758646ffbbe389cf4736701f",
   "min_java": 11,
-  "changelog": "Fix double spawn, inventory gaps, gold search, banknote stacking"
+  "changelog": "Include Item Codex items in Gir-Society tab and fix inventory ghost slots"
 }
