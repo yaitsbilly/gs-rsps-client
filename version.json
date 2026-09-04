@@ -1,12 +1,12 @@
 {
-  "version": "2.9.9",
-  "title": "GirSociety Client v2.9.9",
+  "version": "3.0.0",
+  "title": "GirSociety Client v3.0.0",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v2.9.9/GS-Client-Version-2.9.9.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.0.0/GS-Client-Version-3.0.0.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.9.9.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.0.0.jar"
   ],
-  "sha256": "1e5345350f44a0a39ca99ed8cf68aae9fd60ee4e758646ffbbe389cf4736701f",
+  "sha256": "25ad07f79f6493c20f2f45d7c8689aaccb4be3e1068ec3fc9ec5a8a0de2862de",
   "min_java": 11,
-  "changelog": "Include Item Codex items in Gir-Society tab and fix inventory ghost slots"
+  "changelog": "Curate Gir-Society tab to exclusively feature Item Codex, Boss Codex, Pet Codex, and Crate custom items"
 }
