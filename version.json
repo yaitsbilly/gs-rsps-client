@@ -6,7 +6,7 @@
   "fallback_urls": [
     "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.0.8.jar"
   ],
-  "sha256": "46e163c9197669a76a7da08700c712de7a77984dcbaf231615dde95e2a0eac64",
+  "sha256": "bd25a4b168e62f2521574a2a1c79d6f908a02748ed8d49a2b7ff619850afc02e",
   "min_java": 11,
-  "changelog": "Admin Control Panel single F6 toggle key alignment and stale profile keybind decoupling"
+  "changelog": "Connect Gir-Society journal menu options directly to plugin window overlays"
 }
