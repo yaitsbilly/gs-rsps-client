@@ -6,7 +6,7 @@
   "fallback_urls": [
     "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-2.9.6.jar"
   ],
-  "sha256": "98d92e528df1ade7c0ecb794f5b79b6c062936fde61a9172645dbe458a695c9e",
+  "sha256": "96e38ecb651506928b35dc5d757cdaf949bf284a2e7719974cade8183aeb1866",
   "min_java": 11,
   "changelog": "Client update v2.9.6"
 }
