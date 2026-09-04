@@ -1,12 +1,12 @@
 {
-  "version": "3.0.6",
-  "title": "GirSociety Client v3.0.6",
+  "version": "3.0.7",
+  "title": "GirSociety Client v3.0.7",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.0.6/GS-Client-Version-3.0.6.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.0.7/GS-Client-Version-3.0.7.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.0.6.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.0.7.jar"
   ],
-  "sha256": "d10c6d2111277f7f74c2b31cdcde553018f9053e42d553da1e87564d50a2ee1c",
+  "sha256": "c57da725ee34a596ca78e9202beb6be62f876cfc2ac6ac0340a8e309f355bd85",
   "min_java": 11,
-  "changelog": "Fix CustomObjectsScript compilation and improve 3D studio network sync"
+  "changelog": "Admin Control Panel single F6 toggle key alignment and stale profile keybind decoupling"
 }
