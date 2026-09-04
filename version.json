@@ -1,12 +1,12 @@
 {
-  "version": "3.0.9",
-  "title": "GirSociety Client v3.0.7",
+  "version": "3.1.0",
+  "title": "GirSociety Client v3.1.0",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.0.9/GS-Client-Version-3.0.9.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.1.0/GS-Client-Version-3.1.0.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.0.9.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.0.jar"
   ],
-  "sha256": "efae37dd24824cca235c562685b62316278b30d9c1ef5bae977abdb43931a798",
+  "sha256": "db8a8ff4c96d22eccb0a0568981f37e1701198211900cdde9e332988ecce65f9",
   "min_java": 11,
-  "changelog": "Fix WASD camera movement while typing in search boxes across all plugins"
+  "changelog": "Journal Menu Overlay Window Opening and Singleton Architecture Fix"
 }
