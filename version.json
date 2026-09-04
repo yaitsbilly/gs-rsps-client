@@ -1,12 +1,12 @@
 {
-  "version": "3.1.0",
-  "title": "GirSociety Client v3.1.0",
+  "version": "3.1.1",
+  "title": "GirSociety Client v3.1.1",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.1.0/GS-Client-Version-3.1.0.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.1.1/GS-Client-Version-3.1.1.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.0.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.1.jar"
   ],
-  "sha256": "db8a8ff4c96d22eccb0a0568981f37e1701198211900cdde9e332988ecce65f9",
+  "sha256": "cdc0cc6913f2b9cd4c97ec90abf164747b658c5aa349c3918599371628993318",
   "min_java": 11,
-  "changelog": "Journal Menu Overlay Window Opening and Singleton Architecture Fix"
+  "changelog": "Thread-Safe AWT Event Purge & Unclickable World/Walking Repair"
 }
