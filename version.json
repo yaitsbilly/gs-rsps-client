@@ -1,12 +1,12 @@
 {
-  "version": "3.0.5",
-  "title": "GirSociety Client v3.0.2",
+  "version": "3.0.6",
+  "title": "GirSociety Client v3.0.6",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.0.5/GS-Client-Version-3.0.5.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.0.6/GS-Client-Version-3.0.6.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.0.5.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.0.6.jar"
   ],
-  "sha256": "4fb65b9ae06f7dc155b442e09234604c1e604a47574d22600540eec73352e8e2",
+  "sha256": "d10c6d2111277f7f74c2b31cdcde553018f9053e42d553da1e87564d50a2ee1c",
   "min_java": 11,
-  "changelog": "Auto HTTP sync to server host on Export/Reboot"
+  "changelog": "Fix CustomObjectsScript compilation and improve 3D studio network sync"
 }
