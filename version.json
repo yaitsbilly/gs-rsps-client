@@ -6,7 +6,7 @@
   "fallback_urls": [
     "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.0.9.jar"
   ],
-  "sha256": "2564042cadd4c25a907035990bb4b4dde52c2ab7c723216469a1e51db2028da6",
+  "sha256": "efae37dd24824cca235c562685b62316278b30d9c1ef5bae977abdb43931a798",
   "min_java": 11,
-  "changelog": "Gir-Society journal menu interactive click, hover highlight, and high priority menu entry engine"
+  "changelog": "Fix WASD camera movement while typing in search boxes across all plugins"
 }
