@@ -6,7 +6,7 @@
   "fallback_urls": [
     "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.0.8.jar"
   ],
-  "sha256": "bd25a4b168e62f2521574a2a1c79d6f908a02748ed8d49a2b7ff619850afc02e",
+  "sha256": "492e44c039506af606a4f34fe2a291299c89ed9ea7da43a0ae9ff28666f79008",
   "min_java": 11,
-  "changelog": "Connect Gir-Society journal menu options directly to plugin window overlays"
+  "changelog": "Curated Gir-Society Admin Spawner filter with full Item Codex craftables and Bosses Codex drops"
 }
