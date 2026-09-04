@@ -1,12 +1,12 @@
 {
-  "version": "3.0.2",
+  "version": "3.0.3",
   "title": "GirSociety Client v3.0.2",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.0.2/GS-Client-Version-3.0.2.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.0.3/GS-Client-Version-3.0.3.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.0.2.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.0.3.jar"
   ],
-  "sha256": "8261add5b61d28c5b011e1fa813fa8c8a6b0083e241711380b3a7efdf9b479d9",
+  "sha256": "3891ad7a054cca39a72f8f50e4d02fc5b6d02cb394a605b3e273b895f6e409d0",
   "min_java": 11,
-  "changelog": "Admin Control Panel F6 toggle alignment, thread-safe player directory, and multi-word username parsing"
+  "changelog": "Filter null NPCs in World Editor, null-safe exporter guards"
 }
