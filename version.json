@@ -1,12 +1,12 @@
 {
-  "version": "3.2.2",
-  "title": "GirSociety Client v3.2.2",
+  "version": "3.2.3",
+  "title": "GirSociety Client v3.2.3",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.2.2/GS-Client-Version-3.2.2.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.2.3/GS-Client-Version-3.2.3.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.2.2.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.2.3.jar"
   ],
-  "sha256": "57b8400d1b5314a45376de48889a5b656858ee10011cccc731423b2740701332",
+  "sha256": "c6fcd9c4c1d58bd23eae02be0633135547f693a7c5247859cf3ac0e0d18d9f7f",
   "min_java": 11,
-  "changelog": "Server-bot navigation bridge, ::botwalk/::bottele support, non-intrusive mouse cursor fix, nav mode toggle"
+  "changelog": "100% GUI-based bot architecture, native minimap/canvas path projection, zero chat commands, complete mouse event absorption"
 }
