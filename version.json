@@ -1,12 +1,12 @@
 {
-  "version": "3.2.1",
-  "title": "GirSociety Client v3.2.1 \u2014 Botting Studio Hierarchical Selection",
+  "version": "3.2.2",
+  "title": "GirSociety Client v3.2.2",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.2.1/GS-Client-Version-3.2.1.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.2.2/GS-Client-Version-3.2.2.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.2.1.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.2.2.jar"
   ],
-  "sha256": "46fe1e7be789ea5bc3354c76b743056da9e2e6d8b273843c5a1067ff10e41fe4",
+  "sha256": "57b8400d1b5314a45376de48889a5b656858ee10011cccc731423b2740701332",
   "min_java": 11,
-  "changelog": "Separate Action, Resource, and Location hierarchy in Botting Studio"
+  "changelog": "Server-bot navigation bridge, ::botwalk/::bottele support, non-intrusive mouse cursor fix, nav mode toggle"
 }
