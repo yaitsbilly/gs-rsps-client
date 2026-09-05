@@ -1,12 +1,12 @@
 {
-  "version": "3.1.2",
-  "title": "GirSociety Client v3.1.2",
+  "version": "3.1.3",
+  "title": "GirSociety Client v3.1.3",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.1.2/GS-Client-Version-3.1.2.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.1.3/GS-Client-Version-3.1.3.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.2.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.3.jar"
   ],
-  "sha256": "e117c79e5c3a4d15b31b21b98e94fd45e914d9112b3a64427d61a002a0d86ce5",
+  "sha256": "7d7fd28cdab37790d4fda108a7be64dac274570aea3c784746311760357306e0",
   "min_java": 11,
-  "changelog": "Center Gir-Society Menu title and purge top circular button overlays"
+  "changelog": "Fix Goblin Chieftain Grashnak in Boss Codex"
 }
