@@ -1,12 +1,12 @@
 {
-  "version": "3.2.3",
-  "title": "GirSociety Client v3.2.3",
+  "version": "3.2.4",
+  "title": "GirSociety Client v3.2.4",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.2.3/GS-Client-Version-3.2.3.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.2.4/GS-Client-Version-3.2.4.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.2.3.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.2.4.jar"
   ],
-  "sha256": "c6fcd9c4c1d58bd23eae02be0633135547f693a7c5247859cf3ac0e0d18d9f7f",
+  "sha256": "50773bb8e44bc89f714c5db11cb60751dfa8adfe382e4ba8c0c37cd6ab0840eb",
   "min_java": 11,
-  "changelog": "100% GUI-based bot architecture, native minimap/canvas path projection, zero chat commands, complete mouse event absorption"
+  "changelog": "Fix bot navigation to use native scene tile packets, fix pathfinder fallback, and add city road networks"
 }
