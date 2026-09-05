@@ -1,12 +1,12 @@
 {
-  "version": "3.2.9",
-  "title": "Client v3.2.9 - Bridge Navigation Fix",
+  "version": "3.3.0",
+  "title": "Client v3.3.0 - Path Visualizer & Editor",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.2.9/GS-Client-Version-3.2.9.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.3.0/GS-Client-Version-3.3.0.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.2.9.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.3.0.jar"
   ],
-  "sha256": "350318756a5778eec910b22b68f105280ad9dd28747aa49db44a60185450e0f8",
+  "sha256": "8f33bdc19022e2200c766898cd2bc13dfad4a9170bb28b6dd3b20c897e21834e",
   "min_java": 11,
-  "changelog": "Fix River Lum bridge crossing and navigation routing"
+  "changelog": "Add Path Visualization and Interactive Highway Editor"
 }
