@@ -1,12 +1,12 @@
 {
-  "version": "3.2.6",
-  "title": "GirSociety Client v3.1.2",
+  "version": "3.2.7",
+  "title": "GirSociety Client v3.2.7",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.2.6/GS-Client-Version-3.2.6.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.2.7/GS-Client-Version-3.2.7.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.2.6.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.2.7.jar"
   ],
-  "sha256": "43e5f36c989f4787c9bc362349d4105ffb0250e260ea515513a5d8b31e170701",
+  "sha256": "eae22070c2a5ed6d86acee3ee6ca703a25503c394b738c64ad7c8b8b9d557302",
   "min_java": 11,
-  "changelog": "Center Gir-Society Menu title and purge top circular button overlays"
+  "changelog": "Add mob drop looting for all items and automatic door opening"
 }
