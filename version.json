@@ -1,12 +1,12 @@
 {
-  "version": "3.2.5",
-  "title": "GirSociety Client v3.2.5",
+  "version": "3.1.8",
+  "title": "GirSociety Client v3.1.8 \u2014 Boss HP & Spawns",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.2.5/GS-Client-Version-3.2.5.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.1.8/GS-Client-Version-3.1.8.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.2.5.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.8.jar"
   ],
-  "sha256": "a7d6d8dffbc88bdeec12b273ed60ed7376f05a8ce21600f68a0d25e6491b9f92",
+  "sha256": "c24f0af1c5c93766c3b6b51a474ada137a129f77ebb163c2ba9955a9be524c92",
   "min_java": 11,
-  "changelog": "Remove top floating BOT button, open via F7 hotkey"
+  "changelog": "Fix boss HP stats and isolate unique boss archetypes"
 }
