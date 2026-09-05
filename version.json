@@ -1,12 +1,12 @@
 {
-  "version": "3.1.3",
-  "title": "GirSociety Client v3.1.3",
+  "version": "3.1.4",
+  "title": "GirSociety Client v3.1.4 \u2014 Boss Codex Revamp",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.1.3/GS-Client-Version-3.1.3.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.1.4/GS-Client-Version-3.1.4.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.3.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.4.jar"
   ],
-  "sha256": "7d7fd28cdab37790d4fda108a7be64dac274570aea3c784746311760357306e0",
+  "sha256": "1459fae34a3ef5fcbf960fe70c14e2a7e53f124b11f95743cdd38c9ac0fa71d6",
   "min_java": 11,
-  "changelog": "Fix Goblin Chieftain Grashnak in Boss Codex"
+  "changelog": "Update Boss Codex with 25 custom King-variant mobs, drops, and teleport button"
 }
