@@ -3,7 +3,7 @@
 [![OSRS Revision](https://img.shields.io/badge/OSRS%20Revision-240%20(Cache%20%232664)-blue.svg?style=for-the-badge&logo=runescape)](https://github.com/yaitsbilly/gs-rsps-client)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/girsociety)
 [![Engine](https://img.shields.io/badge/Client%20Engine-RuneLite%201.12.38-orange.svg?style=for-the-badge)](https://github.com/yaitsbilly/gs-rsps-client)
-[![Latest Client](https://img.shields.io/badge/Client%20Build-v3.0.0-brightgreen.svg?style=for-the-badge)](https://github.com/yaitsbilly/gs-rsps-client/releases)
+[![Latest Client](https://img.shields.io/badge/Client%20Build-v3.1.3-brightgreen.svg?style=for-the-badge)](https://github.com/yaitsbilly/gs-rsps-client/releases)
 [![Auto Update](https://img.shields.io/badge/Auto--Update-GitHub%20Releases-green.svg?style=for-the-badge&logo=github)](https://github.com/yaitsbilly/gs-rsps-client/releases)
 [![License](https://img.shields.io/badge/License-ISC-purple.svg?style=for-the-badge)](https://github.com/yaitsbilly/gs-rsps-client)
 
