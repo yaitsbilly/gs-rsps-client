@@ -1,12 +1,12 @@
 {
-  "version": "3.2.7",
-  "title": "GirSociety Client v3.2.7",
+  "version": "3.2.8",
+  "title": "GirSociety Client v3.2.8",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.2.7/GS-Client-Version-3.2.7.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.2.8/GS-Client-Version-3.2.8.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.2.7.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.2.8.jar"
   ],
-  "sha256": "eae22070c2a5ed6d86acee3ee6ca703a25503c394b738c64ad7c8b8b9d557302",
+  "sha256": "07fcdab71d4e85b19831b405c230912b53d052033705330d00f093e72764efa3",
   "min_java": 11,
-  "changelog": "Add mob drop looting for all items and automatic door opening"
+  "changelog": "Targeted mob drop looting on death tile with 1-2s drop spawn wait and next mob acquisition"
 }
