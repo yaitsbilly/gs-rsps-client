@@ -1,12 +1,12 @@
 {
-  "version": "3.1.5",
-  "title": "GirSociety Client v3.1.5 \u2014 Item Codex Revamp",
+  "version": "3.1.6",
+  "title": "GirSociety Client v3.1.6 \u2014 Item ID Corrections",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.1.5/GS-Client-Version-3.1.5.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.1.6/GS-Client-Version-3.1.6.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.5.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.6.jar"
   ],
-  "sha256": "b55b77db067dbbcc1bd518f419cf8bb76384b13c6957beabe289b5efe7e04018",
+  "sha256": "8409f0efa3c89c2ad2e2d5a5e19dc624dee9e530df63e8c9051825cbd770e49b",
   "min_java": 11,
-  "changelog": "Synchronize Item Codex with 25 custom King-variant boss drops"
+  "changelog": "Corrected Granite ring (21739) and Plaguefang Dagger (5682) item IDs in Boss and Item Codices"
 }
