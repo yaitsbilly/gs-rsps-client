@@ -1,12 +1,12 @@
 {
-  "version": "3.1.7",
-  "title": "GirSociety Client v3.1.7 \u2014 Boss Display & Pet Alignment",
+  "version": "3.2.0",
+  "title": "GirSociety Client v3.2.0 \u2014 Botting Studio Suite",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.1.7/GS-Client-Version-3.1.7.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.2.0/GS-Client-Version-3.2.0.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.7.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.2.0.jar"
   ],
-  "sha256": "f476b3814a9e4c04469c0e6531ef6e3bb53b47a2adaf53247f3542b669c7b408",
+  "sha256": "4a52eef7a871a5692453c67bfb6d4d2c244e5d5a352c006e6bc2b74f77e6f6c1",
   "min_java": 11,
-  "changelog": "Fix in-game boss combat level/name display and authentic pet drops"
+  "changelog": "Add Gir-Society Botting Studio Plugin Suite"
 }
