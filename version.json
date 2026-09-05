@@ -1,12 +1,12 @@
 {
-  "version": "3.1.4",
-  "title": "GirSociety Client v3.1.4 \u2014 Boss Codex Revamp",
+  "version": "3.1.5",
+  "title": "GirSociety Client v3.1.5 \u2014 Item Codex Revamp",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.1.4/GS-Client-Version-3.1.4.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.1.5/GS-Client-Version-3.1.5.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.4.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.5.jar"
   ],
-  "sha256": "1459fae34a3ef5fcbf960fe70c14e2a7e53f124b11f95743cdd38c9ac0fa71d6",
+  "sha256": "b55b77db067dbbcc1bd518f419cf8bb76384b13c6957beabe289b5efe7e04018",
   "min_java": 11,
-  "changelog": "Update Boss Codex with 25 custom King-variant mobs, drops, and teleport button"
+  "changelog": "Synchronize Item Codex with 25 custom King-variant boss drops"
 }
