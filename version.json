@@ -1,12 +1,12 @@
 {
-  "version": "3.2.4",
-  "title": "GirSociety Client v3.2.4",
+  "version": "3.2.5",
+  "title": "GirSociety Client v3.2.5",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.2.4/GS-Client-Version-3.2.4.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.2.5/GS-Client-Version-3.2.5.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.2.4.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.2.5.jar"
   ],
-  "sha256": "50773bb8e44bc89f714c5db11cb60751dfa8adfe382e4ba8c0c37cd6ab0840eb",
+  "sha256": "a7d6d8dffbc88bdeec12b273ed60ed7376f05a8ce21600f68a0d25e6491b9f92",
   "min_java": 11,
-  "changelog": "Fix bot navigation to use native scene tile packets, fix pathfinder fallback, and add city road networks"
+  "changelog": "Remove top floating BOT button, open via F7 hotkey"
 }
