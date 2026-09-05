@@ -1,12 +1,12 @@
 {
-  "version": "3.1.6",
-  "title": "GirSociety Client v3.1.6 \u2014 Item ID Corrections",
+  "version": "3.1.7",
+  "title": "GirSociety Client v3.1.7 \u2014 Boss Display & Pet Alignment",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.1.6/GS-Client-Version-3.1.6.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.1.7/GS-Client-Version-3.1.7.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.6.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.7.jar"
   ],
-  "sha256": "8409f0efa3c89c2ad2e2d5a5e19dc624dee9e530df63e8c9051825cbd770e49b",
+  "sha256": "f476b3814a9e4c04469c0e6531ef6e3bb53b47a2adaf53247f3542b669c7b408",
   "min_java": 11,
-  "changelog": "Corrected Granite ring (21739) and Plaguefang Dagger (5682) item IDs in Boss and Item Codices"
+  "changelog": "Fix in-game boss combat level/name display and authentic pet drops"
 }
