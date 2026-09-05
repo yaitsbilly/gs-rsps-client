@@ -1,12 +1,12 @@
 {
-  "version": "3.1.8",
-  "title": "GirSociety Client v3.1.8 \u2014 Boss HP & Spawns",
+  "version": "3.2.6",
+  "title": "GirSociety Client v3.1.2",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.1.8/GS-Client-Version-3.1.8.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.2.6/GS-Client-Version-3.2.6.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.8.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.2.6.jar"
   ],
-  "sha256": "c24f0af1c5c93766c3b6b51a474ada137a129f77ebb163c2ba9955a9be524c92",
+  "sha256": "43e5f36c989f4787c9bc362349d4105ffb0250e260ea515513a5d8b31e170701",
   "min_java": 11,
-  "changelog": "Fix boss HP stats and isolate unique boss archetypes"
+  "changelog": "Center Gir-Society Menu title and purge top circular button overlays"
 }
