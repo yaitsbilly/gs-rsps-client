@@ -1,12 +1,12 @@
 {
-  "version": "3.1.1",
-  "title": "GirSociety Client v3.1.1",
+  "version": "3.1.2",
+  "title": "GirSociety Client v3.1.2",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.1.1/GS-Client-Version-3.1.1.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.1.2/GS-Client-Version-3.1.2.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.1.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.2.jar"
   ],
-  "sha256": "cdc0cc6913f2b9cd4c97ec90abf164747b658c5aa349c3918599371628993318",
+  "sha256": "e117c79e5c3a4d15b31b21b98e94fd45e914d9112b3a64427d61a002a0d86ce5",
   "min_java": 11,
-  "changelog": "Thread-Safe AWT Event Purge & Unclickable World/Walking Repair"
+  "changelog": "Center Gir-Society Menu title and purge top circular button overlays"
 }
