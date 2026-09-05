@@ -1,12 +1,12 @@
 {
-  "version": "3.2.0",
-  "title": "GirSociety Client v3.2.0 \u2014 Botting Studio Suite",
+  "version": "3.2.1",
+  "title": "GirSociety Client v3.2.1 \u2014 Botting Studio Hierarchical Selection",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.2.0/GS-Client-Version-3.2.0.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.2.1/GS-Client-Version-3.2.1.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.2.0.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.2.1.jar"
   ],
-  "sha256": "4a52eef7a871a5692453c67bfb6d4d2c244e5d5a352c006e6bc2b74f77e6f6c1",
+  "sha256": "46fe1e7be789ea5bc3354c76b743056da9e2e6d8b273843c5a1067ff10e41fe4",
   "min_java": 11,
-  "changelog": "Add Gir-Society Botting Studio Plugin Suite"
+  "changelog": "Separate Action, Resource, and Location hierarchy in Botting Studio"
 }
