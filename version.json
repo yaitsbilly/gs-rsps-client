@@ -1,12 +1,12 @@
 {
-  "version": "3.4.1",
-  "title": "GirSociety Client v3.4.1",
+  "version": "3.5.0",
+  "title": "GirSociety Client v3.5.0",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.4.1/GS-Client-Version-3.4.1.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.5.0/GS-Client-Version-3.5.0.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.4.1.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.5.0.jar"
   ],
-  "sha256": "fa42643f5048166a2a02f19e72856f1fb4184c9f1767537d3c4fa6523f53009c",
+  "sha256": "757f33e4f3e3cd1ad38854d457a8757c9f9c56d3b86602d517765a5d7cc4a40e",
   "min_java": 11,
-  "changelog": "All 57 botting studio locations verified: add Varrock Castle nodes and refine west barrier"
+  "changelog": "Monotonic forward waypoint progression, direct West Mine south connector, and full path overlay rendering"
 }
