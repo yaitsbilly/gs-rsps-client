@@ -8,5 +8,5 @@
   ],
   "sha256": "03ff8e956177316bd8207b4bf72f66ccb3107b3084495dade557375fa05c8c82",
   "min_java": 11,
-  "changelog": "Match Bosses Codex background texture to Skill Guide and remove drop shadow"
+  "changelog": "Align Lumbridge Castle back stairs waypoint directly onto stairs and smooth interior corridor routing"
 }
