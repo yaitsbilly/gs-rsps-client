@@ -6,7 +6,7 @@
   "fallback_urls": [
     "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.8.jar"
   ],
-  "sha256": "03ff8e956177316bd8207b4bf72f66ccb3107b3084495dade557375fa05c8c82",
+  "sha256": "7e08c7a234f8a1fcd782ebcf89511a1d5b79c84f28df587cf767f23130a69cc2",
   "min_java": 11,
-  "changelog": "Align Lumbridge Castle back stairs waypoint directly onto stairs and smooth interior corridor routing"
+  "changelog": "Fix Achievement Diary scroll modal collision with Gir-Society menu"
 }
