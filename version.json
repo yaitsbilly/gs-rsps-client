@@ -1,12 +1,12 @@
 {
-  "version": "3.3.3",
-  "title": "GirSociety Client v3.3.3",
+  "version": "3.1.2",
+  "title": "GirSociety Client v3.1.2",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.3.3/GS-Client-Version-3.3.3.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.1.2/GS-Client-Version-3.1.2.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.3.3.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.2.jar"
   ],
-  "sha256": "5f17f9663092ee1bec12e88ad7b5d83716ac51b04c3501f19bdcf3d2b6a070ee",
+  "sha256": "df23d94570bd7119e7d0ccb2e023843e0714d46287f51f60d5c4a6b2359e03a7",
   "min_java": 11,
-  "changelog": "Fix Lumbridge Castle back stairs climbing and roof bank opening interaction"
+  "changelog": "Center Gir-Society Menu title and purge top circular button overlays"
 }
