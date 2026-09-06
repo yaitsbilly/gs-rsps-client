@@ -1,12 +1,12 @@
 {
-  "version": "3.1.7",
-  "title": "GirSociety Client v3.1.7",
+  "version": "3.1.8",
+  "title": "GirSociety Client v3.1.8",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.1.7/GS-Client-Version-3.1.7.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.1.8/GS-Client-Version-3.1.8.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.7.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.8.jar"
   ],
-  "sha256": "ca056d94bd18c3696a4455fd3cc931e787a27541e8733dd8fe2d2d572654d69a",
+  "sha256": "e111889a49b14921e0b0c6f2d22f72952d00865e258ef5cd6690f84ca9bbc00c",
   "min_java": 11,
-  "changelog": "Use Lumbridge Castle interior back stairs and plane-aware pathfinding"
+  "changelog": "Align Lumbridge Castle back stairs waypoint directly onto stairs and smooth interior corridor routing"
 }
