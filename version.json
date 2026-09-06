@@ -1,12 +1,12 @@
 {
-  "version": "3.3.5",
-  "title": "GirSociety Client v3.3.5",
+  "version": "3.3.6",
+  "title": "GirSociety Client v3.3.6",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.3.5/GS-Client-Version-3.3.5.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.3.6/GS-Client-Version-3.3.6.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.3.5.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.3.6.jar"
   ],
-  "sha256": "9dfa39930e996ddda8a0895baa16e102fcebb9e4eed0e941fc4a552e615a2b36",
+  "sha256": "284d59e2961ebc075cf73380bbd2abb37afd0211fb3bde7d29fb66d93b8fab0b",
   "min_java": 11,
-  "changelog": "Fix bot navigation line rendering, waypoint pruning, and spot arrival clearing"
+  "changelog": "Fix Varrock West Mine coordinates, auto-detect standing mine, and eliminate macro ping-pong"
 }
