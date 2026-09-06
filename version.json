@@ -1,12 +1,12 @@
 {
-  "version": "3.1.8",
-  "title": "GirSociety Client v3.1.8",
+  "version": "3.3.1",
+  "title": "GirSociety Client v3.3.1",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.1.8/GS-Client-Version-3.1.8.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.3.1/GS-Client-Version-3.3.1.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.8.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.3.1.jar"
   ],
-  "sha256": "7e08c7a234f8a1fcd782ebcf89511a1d5b79c84f28df587cf767f23130a69cc2",
+  "sha256": "bc5a277af50f9507d3abafd5b46b19560409903584ea367a7823390ebcf14c78",
   "min_java": 11,
-  "changelog": "Fix Achievement Diary scroll modal collision with Gir-Society menu"
+  "changelog": "Fix Achievement Diary modal task display and separate from Gir-Society menu"
 }
