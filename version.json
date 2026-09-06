@@ -1,12 +1,12 @@
 {
-  "version": "3.1.4",
-  "title": "GirSociety Client v3.1.4",
+  "version": "3.1.5",
+  "title": "GirSociety Client v3.1.5",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.1.4/GS-Client-Version-3.1.4.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.1.5/GS-Client-Version-3.1.5.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.4.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.5.jar"
   ],
-  "sha256": "844325bde9f214ad4073e960dad121516284ef2c5e971c03ec9dbda8fae6e2d8",
+  "sha256": "bba9a7fb171ed393f21bc38f2d11eee26983ea480edbdb82a72153c357de7927",
   "min_java": 11,
-  "changelog": "Fix Lumbridge Swamp Mine bank routing and castle wall clipping"
+  "changelog": "Fix DoorManager route hijacking and Lumbridge Castle East Gate routing"
 }
