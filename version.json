@@ -1,12 +1,12 @@
 {
-  "version": "3.5.0",
-  "title": "GirSociety Client v3.5.0",
+  "version": "3.5.1",
+  "title": "GirSociety Client v3.5.1",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.5.0/GS-Client-Version-3.5.0.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.5.1/GS-Client-Version-3.5.1.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.5.0.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.5.1.jar"
   ],
-  "sha256": "757f33e4f3e3cd1ad38854d457a8757c9f9c56d3b86602d517765a5d7cc4a40e",
+  "sha256": "76fe0eae8dee5bb37af43d1d803e42bbd7190d352d27c370c22da22ad1b28ddd",
   "min_java": 11,
-  "changelog": "Monotonic forward waypoint progression, direct West Mine south connector, and full path overlay rendering"
+  "changelog": "Align Bosses Codex styling with authentic OSRS Skill Guide theme"
 }
