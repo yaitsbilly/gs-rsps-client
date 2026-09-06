@@ -1,12 +1,12 @@
 {
-  "version": "3.1.9",
-  "title": "GirSociety Client v3.1.9",
+  "version": "3.3.2",
+  "title": "GirSociety Client v3.3.2",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.1.9/GS-Client-Version-3.1.9.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.3.2/GS-Client-Version-3.3.2.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.9.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.3.2.jar"
   ],
-  "sha256": "8b5f978263fb7b9a0e14641442ed4d4917ce82c98b74ffbe7f848fd41c5f168d",
+  "sha256": "4605f696d7555b26987175cf692aa5aa1298c2b65ae3efa4a83b02d31a2b94ee",
   "min_java": 11,
-  "changelog": "Lighten Bosses Codex background texture to match vanilla OSRS windows"
+  "changelog": "Match Bosses Codex background texture to vanilla OSRS Skill Guide and remove drop shadow"
 }
