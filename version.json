@@ -1,12 +1,12 @@
 {
-  "version": "3.3.7",
-  "title": "GirSociety Client v3.3.7",
+  "version": "3.3.8",
+  "title": "GirSociety Client v3.3.8",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.3.7/GS-Client-Version-3.3.7.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.3.8/GS-Client-Version-3.3.8.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.3.7.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.3.8.jar"
   ],
-  "sha256": "c66354ce7db7b5287c2a902d75e96e128668311525882bbc6200f09425d4560b",
+  "sha256": "1dcd171b331968259f42116210e237d19c5580d4e7913264a293368093f68e49",
   "min_java": 11,
-  "changelog": "Robust start button hitbox and defensive start execution with standing location auto-detect"
+  "changelog": "Fix start toggle mouse event priority, debounce, and restore reliable 3.3.4 start baseline"
 }
