@@ -6,7 +6,7 @@
   "fallback_urls": [
     "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.8.jar"
   ],
-  "sha256": "e111889a49b14921e0b0c6f2d22f72952d00865e258ef5cd6690f84ca9bbc00c",
+  "sha256": "03ff8e956177316bd8207b4bf72f66ccb3107b3084495dade557375fa05c8c82",
   "min_java": 11,
-  "changelog": "Align Lumbridge Castle back stairs waypoint directly onto stairs and smooth interior corridor routing"
+  "changelog": "Match Bosses Codex background texture to Skill Guide and remove drop shadow"
 }
