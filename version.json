@@ -1,12 +1,12 @@
 {
-  "version": "3.4.0",
-  "title": "GirSociety Client v3.4.0",
+  "version": "3.4.1",
+  "title": "GirSociety Client v3.4.1",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.4.0/GS-Client-Version-3.4.0.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.4.1/GS-Client-Version-3.4.1.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.4.0.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.4.1.jar"
   ],
-  "sha256": "a02a2197514d5231896bcb0ef9219ae5d12b182b16663005deafc8a36d489341",
+  "sha256": "fa42643f5048166a2a02f19e72856f1fb4184c9f1767537d3c4fa6523f53009c",
   "min_java": 11,
-  "changelog": "Revamp pathfinding: mass barrier grid system, Varrock East Gate & south exterior bypass"
+  "changelog": "All 57 botting studio locations verified: add Varrock Castle nodes and refine west barrier"
 }
