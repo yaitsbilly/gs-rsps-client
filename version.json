@@ -1,12 +1,12 @@
 {
-  "version": "3.3.1",
-  "title": "GirSociety Client v3.3.1",
+  "version": "3.1.9",
+  "title": "GirSociety Client v3.1.9",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.3.1/GS-Client-Version-3.3.1.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.1.9/GS-Client-Version-3.1.9.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.3.1.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.9.jar"
   ],
-  "sha256": "bc5a277af50f9507d3abafd5b46b19560409903584ea367a7823390ebcf14c78",
+  "sha256": "8b5f978263fb7b9a0e14641442ed4d4917ce82c98b74ffbe7f848fd41c5f168d",
   "min_java": 11,
-  "changelog": "Fix Achievement Diary modal task display and separate from Gir-Society menu"
+  "changelog": "Lighten Bosses Codex background texture to match vanilla OSRS windows"
 }
