@@ -1,12 +1,12 @@
 {
-  "version": "3.3.6",
-  "title": "GirSociety Client v3.3.6",
+  "version": "3.3.7",
+  "title": "GirSociety Client v3.3.7",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.3.6/GS-Client-Version-3.3.6.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.3.7/GS-Client-Version-3.3.7.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.3.6.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.3.7.jar"
   ],
-  "sha256": "284d59e2961ebc075cf73380bbd2abb37afd0211fb3bde7d29fb66d93b8fab0b",
+  "sha256": "c66354ce7db7b5287c2a902d75e96e128668311525882bbc6200f09425d4560b",
   "min_java": 11,
-  "changelog": "Fix Varrock West Mine coordinates, auto-detect standing mine, and eliminate macro ping-pong"
+  "changelog": "Robust start button hitbox and defensive start execution with standing location auto-detect"
 }
