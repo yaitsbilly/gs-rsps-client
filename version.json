@@ -1,12 +1,12 @@
 {
-  "version": "3.3.8",
-  "title": "GirSociety Client v3.3.8",
+  "version": "3.3.9",
+  "title": "GirSociety Client v3.3.9",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.3.8/GS-Client-Version-3.3.8.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.3.9/GS-Client-Version-3.3.9.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.3.8.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.3.9.jar"
   ],
-  "sha256": "1dcd171b331968259f42116210e237d19c5580d4e7913264a293368093f68e49",
+  "sha256": "600c2aaa18bd6f79af29098a415e10659bff495e834f06d6af1e767b05cd3642",
   "min_java": 11,
-  "changelog": "Fix start toggle mouse event priority, debounce, and restore reliable 3.3.4 start baseline"
+  "changelog": "Fix pathing oscillation at skilling spots and prevent bwalk spam"
 }
