@@ -1,12 +1,12 @@
 {
-  "version": "3.5.1",
-  "title": "GirSociety Client v3.5.1",
+  "version": "3.5.2",
+  "title": "GirSociety Client v3.5.2 \u2014 Remove Bot Minimap Button",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.5.1/GS-Client-Version-3.5.1.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.5.2/GS-Client-Version-3.5.2.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.5.1.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.5.2.jar"
   ],
-  "sha256": "76fe0eae8dee5bb37af43d1d803e42bbd7190d352d27c370c22da22ad1b28ddd",
+  "sha256": "b4b2979498ff7a618b8dd167d051ebef80a3b324d0ea2f3fdb1306035e641221",
   "min_java": 11,
-  "changelog": "Align Bosses Codex styling with authentic OSRS Skill Guide theme"
+  "changelog": "Removed bot plugin button near the map; retained F7 hotkey access"
 }
