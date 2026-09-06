@@ -1,12 +1,12 @@
 {
-  "version": "3.1.2",
-  "title": "GirSociety Client v3.1.2",
+  "version": "3.3.4",
+  "title": "GirSociety Client v3.3.4",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.1.2/GS-Client-Version-3.1.2.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.3.4/GS-Client-Version-3.3.4.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.1.2.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.3.4.jar"
   ],
-  "sha256": "df23d94570bd7119e7d0ccb2e023843e0714d46287f51f60d5c4a6b2359e03a7",
+  "sha256": "2691b37be76a7eaa833ea2f6a42e61a8a93357b25f863d957422d8e733f490b9",
   "min_java": 11,
-  "changelog": "Center Gir-Society Menu title and purge top circular button overlays"
+  "changelog": "Enhanced Bot Suite: dynamic CC_OP item action resolver, exact banking, drop mode, and UI overlays"
 }
