@@ -1,12 +1,12 @@
 {
-  "version": "3.5.4",
-  "title": "GirSociety Client v3.5.4 \u2014 Unified OSRS Skill Guide Codex Suite",
+  "version": "3.5.5",
+  "title": "GirSociety Client v3.5.5 - Early Item Codex Progression & Ingredient Diversity",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.5.4/GS-Client-Version-3.5.4.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.5.5/GS-Client-Version-3.5.5.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.5.4.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.5.5.jar"
   ],
-  "sha256": "da551911e00d8155acccf4abd2a07ef8d72368d8b6cec42b5726c14f5b53b6bb",
+  "sha256": "dfe7d1373d001c631432f183c705c90a6e7618876cd4f35d592549148b90fd28",
   "min_java": 11,
-  "changelog": "Unified OSRS Skill Guide theme across all Gir-Society codex plugin windows"
+  "changelog": "Under Level 20 Iron Phase recipes (16 new weapons, armor, tools, and jewelry) + Sandstone Scimitar/Bar 2-ingredient rebalance + Diverse Ingredient count scaling up to T90 (5 materials)"
 }
