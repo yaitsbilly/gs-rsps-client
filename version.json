@@ -1,12 +1,12 @@
 {
-  "version": "3.5.5",
-  "title": "GirSociety Client v3.5.5 - Early Item Codex Progression & Ingredient Diversity",
+  "version": "3.5.6",
+  "title": "GirSociety Client v3.5.6",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.5.5/GS-Client-Version-3.5.5.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.5.6/GS-Client-Version-3.5.6.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.5.5.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.5.6.jar"
   ],
-  "sha256": "99449aebae538cd3cda91f116c19f5b39a885efafa49804e3f5357646f03d325",
+  "sha256": "d3cb3dcf89dda03b56e5b93ef38f9b2bc0c7fb1fb75f946775608395568f98d3",
   "min_java": 11,
-  "changelog": "Under Level 20 Iron Phase recipes (16 new weapons, armor, tools, and jewelry) + Sandstone Scimitar/Bar 2-ingredient rebalance + Diverse Ingredient count scaling up to T90 (5 materials)"
+  "changelog": "Enhanced Bot Suite: dynamic CC_OP item action resolver, exact banking, drop mode, and UI overlays"
 }
