@@ -100,7 +100,17 @@ Server-verified wagering games with atomic balance checks and anti-scam guards (
 
 ---
 
-### 🛡️ 11. Staff Management Studio & 3D World Editor
+### ⛏️ 11. Modern Skilling & Project Rebalance Mechanics
+* **Continuous Skilling Loops**: Pickpocketing and Mining run on persistent continuous loops with automatic re-harvesting without spam clicking.
+* **Project Rebalance Mining**: Slashed rock respawn timers matching modern OSRS (Runite 3m, Addy 1m, Mithril 45s, Coal 15s).
+* **Modern Motherlode Mine**: Cooperative timed veins (23–27s lower floor, 36–40s upper floor), cleaning bonus XP on sack withdrawal, 100 Nugget upper level ladder unlock (Level 57 Mining), and 200 Nugget sack capacity upgrade.
+* **Summer 2024 Run Energy Rebalance**: Energy recovery scales dynamically with Agility level from 20 to 80 units/tick (~1.25m full recharge at 99 Agility), with ~35% reduced unencumbered run drain.
+* **Open Fish Barrel**: Automatically stores harvested fish up to 280 fish directly without interrupting active fishing cycles.
+* **Modern Rooftop Agility**: Post-Project Rebalance lap completion bonus XP across all rooftop courses.
+
+---
+
+### 🛡️ 12. Staff Management Studio & 3D World Editor
 * **Admin Control Panel (`F7` Hotkey)**: Complete in-client management studio featuring real-time player directory, interactive moderation suite (kick/mute/ban with modal confirmation), 24-skill XP & level studio, and searchable Item Spawner catalog.
 * **In-Game World & Spawn Studio**: 3D scene editor allowing developers and admins to place/remove objects, spawn NPCs, visualize bounding boxes, and export map definitions directly to JSON.
 
