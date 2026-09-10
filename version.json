@@ -1,12 +1,12 @@
 {
-  "version": "3.6.0",
-  "title": "GirSociety Client v3.6.0",
+  "version": "3.6.1",
+  "title": "GirSociety Client v3.6.1",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.6.0/GS-Client-Version-3.6.0.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.6.1/GS-Client-Version-3.6.1.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.6.0.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.6.1.jar"
   ],
-  "sha256": "028a6ca32e8b871e6a10394f982745a6acb7880c4e3255a3c3e2fa18ea351074",
+  "sha256": "86ec08cc3ac2beb41a7f2e9c969b308e832bb021aadb8bd16a1c6de12cbef091",
   "min_java": 11,
-  "changelog": "Added static town teleport buttons to Gir-Society Menu and enabled list scrolling"
+  "changelog": "Fixed clickability and perfected static town teleport buttons in Gir-Society Menu"
 }
