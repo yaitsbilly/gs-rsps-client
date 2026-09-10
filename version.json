@@ -1,12 +1,12 @@
 {
-  "version": "3.5.8",
-  "title": "GirSociety Client v3.5.8",
+  "version": "3.5.9",
+  "title": "GirSociety Client v3.5.9",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.5.8/GS-Client-Version-3.5.8.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.5.9/GS-Client-Version-3.5.9.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.5.8.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.5.9.jar"
   ],
-  "sha256": "4b31536c51c4c3bc92a0eb92f35d391147fa4933fe19a68d901e7e695a8f8f43",
+  "sha256": "ca35559f3f9b5856c79b3d866a769356df4188ec845641b0dedaaa8092aa1755",
   "min_java": 11,
   "changelog": "Enhanced Bot Suite: dynamic CC_OP item action resolver, exact banking, drop mode, and UI overlays"
 }
