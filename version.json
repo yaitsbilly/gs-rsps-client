@@ -6,7 +6,7 @@
   "fallback_urls": [
     "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.5.8.jar"
   ],
-  "sha256": "3f86744c2c908318d9f8ea8ce40cc1208eaef57b1d9b87fe1aa7de80a46e96ec",
+  "sha256": "4b31536c51c4c3bc92a0eb92f35d391147fa4933fe19a68d901e7e695a8f8f43",
   "min_java": 11,
   "changelog": "Enhanced Bot Suite: dynamic CC_OP item action resolver, exact banking, drop mode, and UI overlays"
 }
