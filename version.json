@@ -1,12 +1,12 @@
 {
-  "version": "3.6.3",
-  "title": "GirSociety Client v3.6.3",
+  "version": "3.6.4",
+  "title": "GirSociety Client v3.6.4",
   "name": "GirSociety Standalone Client (Rev 240)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.6.3/GS-Client-Version-3.6.3.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.6.4/GS-Client-Version-3.6.4.jar",
   "fallback_urls": [
-    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.6.3.jar"
+    "https://raw.githubusercontent.com/yaitsbilly/gs-rsps-client/main/Client/GS-Client-Version-3.6.4.jar"
   ],
-  "sha256": "bd97604975eac89c75844cb310ee793d3cb2c379de5be1f85cbdea351d826594",
+  "sha256": "45ec77b3bbcb104d5896e5ad7cd6298a197ab83a91c781ce23a90d24386fd66a",
   "min_java": 11,
-  "changelog": "Fix journal list clipping and spacing above teleport footer"
+  "changelog": "Fix teleport player visibility and journal scroll flickering"
 }
