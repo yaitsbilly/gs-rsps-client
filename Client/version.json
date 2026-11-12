@@ -1,0 +1,12 @@
+{
+  "version": "3.7.0",
+  "title": "GirSociety Client v3.7.0 (Rev 241)",
+  "name": "GirSociety Standalone Client (Rev 241)",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.7.0/GS-Client-Version-3.7.0.jar",
+  "fallback_urls": [
+    "https://github.com/yaitsbilly/gs-rsps-client/releases/latest/download/GS-Client-Version-3.7.0.jar"
+  ],
+  "sha256": "a0b14f9f1da0165b35828a1090527821e6181be52b08dca5d4374d2e75bf02ac",
+  "min_java": 11,
+  "changelog": "Upgrade client engine to OSRS Revision 241 (RuneLite 1.13.4), harden server sync & role gating, fix AWT/ClientThread safety, and remove sun.misc.Unsafe RSA overrides"
+}
