@@ -1,13 +1,13 @@
-# Gir-Society RSPS — Rev 240 Server & Client
+# Gir-Society RSPS — Rev 241 Server & Client
 
-[![OSRS Revision](https://img.shields.io/badge/OSRS%20Revision-240%20(Cache%20%232664)-blue.svg?style=for-the-badge&logo=runescape)](https://github.com/yaitsbilly/gs-rsps-client)
+[![OSRS Revision](https://img.shields.io/badge/OSRS%20Revision-241-blue.svg?style=for-the-badge&logo=runescape)](https://github.com/yaitsbilly/gs-rsps-client)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/girsociety)
-[![Engine](https://img.shields.io/badge/Client%20Engine-RuneLite%201.12.38-orange.svg?style=for-the-badge)](https://github.com/yaitsbilly/gs-rsps-client)
-[![Latest Client](https://img.shields.io/badge/Client%20Build-v3.3.3-brightgreen.svg?style=for-the-badge)](https://github.com/yaitsbilly/gs-rsps-client/releases)
+[![Engine](https://img.shields.io/badge/Client%20Engine-RuneLite%201.13.4-orange.svg?style=for-the-badge)](https://github.com/yaitsbilly/gs-rsps-client)
+[![Latest Client](https://img.shields.io/badge/Client%20Build-v3.7.0-brightgreen.svg?style=for-the-badge)](https://github.com/yaitsbilly/gs-rsps-client/releases)
 [![Auto Update](https://img.shields.io/badge/Auto--Update-GitHub%20Releases-green.svg?style=for-the-badge&logo=github)](https://github.com/yaitsbilly/gs-rsps-client/releases)
 [![License](https://img.shields.io/badge/License-ISC-purple.svg?style=for-the-badge)](https://github.com/yaitsbilly/gs-rsps-client)
 
-Welcome to **GirSociety**, a premier Old School RuneScape (OSRS) private game server emulator built on a high-performance **OSRS Revision 240** engine (Cache #2664). GirSociety blends authentic, bleeding-edge OSRS content (Varlamore, Sailing #23, Desert Treasure 2, Project Rebalance) with an expansive suite of custom systems, crafting engines, pinnacle bosses, mystery crate codex, unique relics, pets, and quality-of-life enhancements.
+Welcome to **GirSociety**, a premier Old School RuneScape (OSRS) private game server emulator built on a high-performance **OSRS Revision 241** engine (`RuneLite 1.13.4`). GirSociety blends authentic, bleeding-edge OSRS content (Varlamore, Sailing #23, Desert Treasure 2, Project Rebalance) with an expansive suite of custom systems, crafting engines, pinnacle bosses, mystery crate codex, unique relics, pets, and quality-of-life enhancements.
 
 ---
 
@@ -110,24 +110,25 @@ Server-verified wagering games with atomic balance checks and anti-scam guards (
 
 ---
 
-### 🛡️ 12. Staff Management Studio & 3D World Editor
-* **Admin Control Panel (`F7` Hotkey)**: Complete in-client management studio featuring real-time player directory, interactive moderation suite (kick/mute/ban with modal confirmation), 24-skill XP & level studio, and searchable Item Spawner catalog.
-* **In-Game World & Spawn Studio**: 3D scene editor allowing developers and admins to place/remove objects, spawn NPCs, visualize bounding boxes, and export map definitions directly to JSON.
+### 🛡️ 12. Staff Management Studio, Botting Studio & 3D World Editor
+* **Admin Control Panel (`F6` Hotkey, Staff-Gated)**: Complete in-client management studio featuring real-time player directory, interactive moderation suite (kick/mute/ban with modal confirmation), 24-skill XP & level studio, and searchable Item Spawner catalog.
+* **Gir-Society Botting Studio (`F7` Hotkey)**: GUI task orchestration, barrier-aware highway navigation, looting, and banking available to all players.
+* **In-Game World & Spawn Studio (`F8` Hotkey, Staff-Gated)**: 3D scene editor allowing developers and admins to place/remove objects, spawn NPCs, visualize bounding boxes, and export map definitions directly to JSON.
 
 ---
 
 ## 🎮 How to Play
 
 ### 1. Download the Launcher
-Download [`GirSocietyLauncher.jar`](https://github.com/yaitsbilly/gs-rsps-client/raw/main/GirSocietyLauncher.jar) from the repository root or grab the latest release from the [**Releases Page**](https://github.com/yaitsbilly/gs-rsps-client/releases).
+Download [`GirSocietyLauncher.jar`](https://github.com/yaitsbilly/gs-rsps-client/releases/latest/download/GirSocietyLauncher.jar) from the [**Releases Page**](https://github.com/yaitsbilly/gs-rsps-client/releases).
 
 ### 2. Launch & Auto-Update
 * Double-click `GirSocietyLauncher.jar` (or run `java -jar GirSocietyLauncher.jar`).
-* The launcher automatically checks GitHub for updates, downloads the newest client release, verifies SHA-256 integrity, and launches into the game.
+* The launcher automatically checks GitHub for updates, downloads the newest client release asset, verifies SHA-256 + ZIP integrity, and launches into the game.
 * **Offline Support**: If GitHub is unreachable, the launcher automatically starts the locally cached client from `%USERPROFILE%\.girsociety\client.jar`.
 
 ### 3. System Requirements
-* **Java 21 LTS or later** (Adoptium Eclipse Temurin recommended).
+* **Java 11 or later** (Java 21 LTS Adoptium Eclipse Temurin recommended).
 * Compatible with Windows, macOS, and Linux.
 
 ---
@@ -136,9 +137,9 @@ Download [`GirSocietyLauncher.jar`](https://github.com/yaitsbilly/gs-rsps-client
 
 ```mermaid
 graph LR
-    A[Client Build JAR] -->|upload_release_to_github.py| B[GitHub Releases & version.json]
+    A[Client Build JAR] -->|upload_release_to_github.py| B[GitHub Releases & Client/version.json]
     B -->|Checks on startup| C[GirSocietyLauncher.jar]
-    C -->|New version found| D[Downloads & Verifies SHA-256]
+    C -->|New version found| D[Downloads & Verifies SHA-256 + ZIP]
     D -->|Caches to local profile| E[%USERPROFILE%/.girsociety/client.jar]
     E -->|Boots| F[GirSociety Game Client]
     C -->|Offline Fallback| E
@@ -147,12 +148,12 @@ graph LR
 ---
 
 ## 📦 Client Releases & Versioning
-All official client builds are versioned following Semantic Versioning (`v3.0.x`) and published directly to GitHub Releases with SHA-256 checksums documented in [`version.json`](version.json).
+All official client builds are versioned following Semantic Versioning (`v3.7.x`) and published directly to GitHub Release Assets with SHA-256 checksums documented in [`version.json`](version.json).
 
 ---
 
 ## 💬 Community & Support
 * **Official Discord**: Join our Discord server for updates, announcements, support, and community discussions: [**https://discord.gg/girsociety**](https://discord.gg/girsociety)
 * **GitHub Issues**: Report client bugs or crashes via the [Issues tab](https://github.com/yaitsbilly/gs-rsps-client/issues).
-* **Server Status**: Default server endpoint connects to port `43594` on Revision 240.
+* **Server Status**: Default server endpoint connects to port `43594` on Revision 241.
 
