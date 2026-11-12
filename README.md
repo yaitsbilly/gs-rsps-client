@@ -3,7 +3,7 @@
 [![OSRS Revision](https://img.shields.io/badge/OSRS%20Revision-241-blue.svg?style=for-the-badge&logo=runescape)](https://github.com/yaitsbilly/gs-rsps-client)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/girsociety)
 [![Engine](https://img.shields.io/badge/Client%20Engine-RuneLite%201.13.4-orange.svg?style=for-the-badge)](https://github.com/yaitsbilly/gs-rsps-client)
-[![Latest Client](https://img.shields.io/badge/Client%20Build-v3.7.0-brightgreen.svg?style=for-the-badge)](https://github.com/yaitsbilly/gs-rsps-client/releases)
+[![Latest Client](https://img.shields.io/badge/Client%20Build-v3.8.0-brightgreen.svg?style=for-the-badge)](https://github.com/yaitsbilly/gs-rsps-client/releases)
 [![Auto Update](https://img.shields.io/badge/Auto--Update-GitHub%20Releases-green.svg?style=for-the-badge&logo=github)](https://github.com/yaitsbilly/gs-rsps-client/releases)
 [![License](https://img.shields.io/badge/License-ISC-purple.svg?style=for-the-badge)](https://github.com/yaitsbilly/gs-rsps-client)
 
@@ -33,47 +33,44 @@ An interactive unboxing minigame and reward economy integrated across the entire
 ---
 
 ### ⚒️ 3. Gir-Society Item Codex & Custom Multi-Station Crafting
-GirSociety features a deep, custom crafting and upgrade economy with **over 1,900+ custom recipes** across 10 organized tabs (`::items` / `::craft` / `::forge` / `::codex`):
-* **6 Comprehensive Codex Tabs**: `All Items`, `⚒ Craftables`, `🧪 Ingredients`, `☠ Boss Drops`, `⚔ Mob & Slayer`, and `📦 Crate Drops` with direct boss sources and teleport links.
+GirSociety features a curated, 100% functional crafting and upgrade codex with **75 cache-verified recipes** (`::items` / `::craft` / `::forge` / `::codex`):
+* **7 Comprehensive Codex Tabs**: `All Items`, `⚒ Weapons`, `🛡 Armour`, `⛏ Skilling Tools`, `🧪 Alloys & Bars`, `💎 Infusions`, and `🍖 Food & Potions` with item icons, live backpack readiness checks, and interactive `[⚒ Forge / Craft]` & `[♻ Salvage]` buttons.
 * **Combat Stats & Mechanics**: Live equipment combat stats grid (Stab/Slash/Crush/Magic/Ranged bonuses, Melee/Ranged strength, Magic dmg %, Prayer, Speed).
-* **Item Infusion & Empowerment**: Combine rare boss drops with base gear to forge fortified and infused equipment (Infused Godswords, Abyssal Tentacles, Fortified Masori, Torva upgrades).
-* **Salvage & Dismantling**: Break down surplus high-tier equipment into Forging Shards and Essences.
-* **Tiered Materials & Catalysts**: Craft custom alloys (Sandstone Bronze, Treated Heartwood, Moss-Tempered Steel, Crypt Chitin Ingots, and Void Alloys) with Catalyst Stones to prevent item degradation on failure.
-* **Rebalanced Gold Sink**: Tiered gold fees scaled to player income (500 GP up to 1.25M GP).
+* **Item Infusion & Empowerment**: Combine rare boss drops with base gear to forge fortified and infused equipment (Godswords, Abyssal Tentacles, Avernic/Primordial/Pegasian/Eternal upgrades, Fortified Masori, Torva, Rancour, Bellator/Ultor/Venator/Magus).
+* **Salvage & Dismantling**: Break down surplus forged or upgraded equipment with 75% material recovery.
 
 ---
 
-### 🐾 4. Gir-Society Pets Codex & Follower System (55+ Companions)
-A massive companion system supporting lore, summon animations, and live progress tracking (`::pets` / `::pet` / `::petcodex`):
+### 🐾 4. Gir-Society Pets Codex & Follower System (90 Companions)
+A comprehensive companion system supporting lore, summon animations, Probita auto-insurance, and persistent logout/relog follower tracking (`::pets` / `::pet` / `::petcodex`):
 * **5 Companion Categories**: `Boss Pets`, `🌲 Skilling Pets`, `⚔ Custom Pets`, `📦 Crate / Minigames`, and `★ My Collection`.
-* **Standard & Varlamore Pets**: Huey, Nid, Scurry, Amoxliatl Pet, Quetzal, Tiny Tempor, Abyssal Protector, Muphin, Wisp, Butch, Baron, Lil' Viathan, and all classic skilling & boss pets.
-* **Custom Companion Pets**: Baby Grashnak, Miniature Treant, Mini Yeti, Baby Dune Golem, Baby Crypt Scuttler, Coiled Viper, Rust Golem, Crimson Bat, Shadow Whelp, Pulsing Star Core, Mini Abyssal Larva, Revenant Crypt Lord, Behemoth Hatchling, Wyrmlord Hatchling, Solar Dragon Hatchling, and Chibi Noxus Titan.
-* **Live Unlock Tracker**: Real-time account scan tracking pets in backpack, bank, and active follower (`✔ X / Total (Y%)`).
+* **Standard & Varlamore Pets**: Huey, Nid, Scurry, Amoxliatl Pet, Quetzal, Tiny Tempor, Abyssal Protector, Muphin, Wisp, Butch, Baron, Lil' Viathan, Lil' Creator, and all classic skilling, raid & boss pets.
+* **Custom Boss Companion Pets**: Unique cache-verified follower pets across all 25 Gir-Society world bosses with automatic Probita insurance.
+* **Live Unlock Tracker**: Persistent server-synced account tracker (`[PETS_SYNC]`) across backpack, bank, and active follower (`✔ X / 90`).
 
 ---
 
-### 📜 5. Gir-Society Bosses Codex & Drop Directory
-* **4 Tier Tabs**: Organized into `Leveling`, `Mid-Tier`, `High-Tier`, and `Mythic` progression categories (`::bosses`).
-* **Live Player Kill Count Tracker**: Live persistent tracker (`☠ Kill Count: X`) displayed directly on each boss's showcase view.
-* **Full Drop Tables & Catalysts**: Guaranteed catalyst drops, rare relic tracking (48 unique relics), 16 boss pets, and detailed boss strategies.
+### 📜 5. Gir-Society Bosses Codex & Drop Directory (63 Bosses)
+* **4 Tier Tabs + Source Filters**: Organized into `Leveling`, `Mid-Tier`, `High-Tier`, and `Mythic` progression categories across **25 ★ Gir-Society** and **38 OSRS Bosses** (`::bosses`).
+* **Live Persistent Kill Count Tracker**: Server-persisted kill counter (`☠ Kill Count: X`) displayed directly on each boss's showcase view (`[GIR_KC_SYNC]`).
+* **Full Drop Tables & Safe Lair Teleports**: Signature relics, unique boss pets, noted supply drops, tier-scaled Mystery Crate keys, and `⚡ Teleport to Lair` with Wilderness confirmation guards.
 * **In-Game `::wiki <query>`**: Instant command linking player queries directly to verified combat stats, weaknesses, and drop tables.
 
 ---
 
-### 🏛️ 6. Simulated Grand Exchange & Instant Liquidation
-* **4,652+ Item Benchmark Catalog**: Instant market trading without waiting for player counter-orders (`::ge`).
-* **`⚡ SELL ALL TRADEABLES`**: One-click bulk inventory liquidation with modal confirmation to convert farm runs and drop tabs into coins instantly.
-* **Banknote Resolution**: Automatic uncerting for selling and `[✓] Deliver as Banknote` toggle for purchased supplies.
-* **★ Favorites System & Max Calculator**: Quick pins and 1-click Max buy calculation based on active coin stack.
+### 🏛️ 6. Custom Grand Exchange & Arbitrage-Free Market
+* **4,558-Item Sanitized Market Catalog**: Instant custom-only Grand Exchange Codex (`::ge` / GE Clerks / GE Booths) with 4-hour buy limits, 1% seller tax, and High-Alch/Shop arbitrage protection.
+* **`⚡ SELL ALL TRADEABLES`**: Grouped inventory stack display and 2-click confirmation to liquidate tradeable loot tabs safely into coins (with Platinum Token & Bank overflow protection).
+* **Banknote Resolution**: Automatic uncerting for selling and persistent `[✓] Deliver as Banknote` toggle for stack-friendly purchases.
+* **★ Favorites System & Max Calculator**: Quick pins and 1-click Max buy calculation based on active coin stack and remaining 4h buy limit.
 
 ---
 
-### 🏆 7. Prestige System & Account-Wide Perks
-Master your skills to Level 99 and reset them through **10 prestige tiers** to unlock powerful global perks (`::prestige`):
-* **Resource Doubler**: Chance to harvest double logs, ores, and fish without node depletion.
-* **Swift Artisan**: Accelerated animation ticks for crafting, smithing, and herblore batches.
-* **Bane of Monsters**: Damage amplifier against designated Slayer monsters.
-* **Fortune Finder**: Bonus multipliers on rare drop table rolls.
+### 🏆 7. 24-Skill Prestige System, Active Perks & Prestige Shop
+Master your skills to Level 99 and reset them through **10 prestige tiers** to unlock **24 real gameplay perks** (`::prestige` / `::pshop`):
+* **Combat & Slayer Masteries**: Scaling accuracy, max hit, PvM damage soak, Prayer drain reduction (`-2%/rank`), out-of-combat HP regen, Ranged ammo save, Magic rune save, and bonus Slayer task points.
+* **Skilling & Gathering Masteries**: Double log/ore/fish/herb/rune procs, Smithing bar save, Herblore secondary save, Cooking burn immunity, Agility run restore, and Thieving coin multipliers.
+* **Integrated Prestige Shop**: Redeem Prestige Points directly in the UI for Supply Packs, 50k XP Lamps, Mystery Caskets,GP Pouches, and automatic Silver/Diamond/Mythic Crate Key milestones.
 
 ---
 
@@ -148,7 +145,7 @@ graph LR
 ---
 
 ## 📦 Client Releases & Versioning
-All official client builds are versioned following Semantic Versioning (`v3.7.x`) and published directly to GitHub Release Assets with SHA-256 checksums documented in [`version.json`](version.json).
+All official client builds are versioned following Semantic Versioning (`v3.8.x`) and published directly to GitHub Release Assets with SHA-256 checksums documented in [`version.json`](version.json).
 
 ---
 
