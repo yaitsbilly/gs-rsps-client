@@ -1,12 +1,12 @@
 {
-  "version": "3.7.0",
-  "title": "GirSociety Client v3.7.0 (Rev 241)",
+  "version": "3.8.0",
+  "title": "GirSociety Client v3.8.0 (Rev 241 - Custom Menus Overhaul)",
   "name": "GirSociety Standalone Client (Rev 241)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.7.0/GS-Client-Version-3.7.0.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.8.0/GS-Client-Version-3.8.0.jar",
   "fallback_urls": [
-    "https://github.com/yaitsbilly/gs-rsps-client/releases/latest/download/GS-Client-Version-3.7.0.jar"
+    "https://github.com/yaitsbilly/gs-rsps-client/releases/latest/download/GS-Client-Version-3.8.0.jar"
   ],
-  "sha256": "a0b14f9f1da0165b35828a1090527821e6181be52b08dca5d4374d2e75bf02ac",
+  "sha256": "3e46df8add8e4def2b68b5365fc0a4f85aa1e629088309f72d52f12ca9fc1c00",
   "min_java": 11,
-  "changelog": "Upgrade client engine to OSRS Revision 241 (RuneLite 1.13.4), harden server sync & role gating, fix AWT/ClientThread safety, and remove sun.misc.Unsafe RSA overrides"
+  "changelog": "Overhaul all 9 Gir-Society custom menus & server systems: Custom-only GE & 4,558-item arbitrage-free market, 24 active Prestige perks & Prestige Shop, 63-boss Codex with persistent KC & Wildy guards, 75-recipe Forge & Salvage Codex with icons, 90 cache-verified Pets with persistent followers, scrollable Mystery Crates, Daily Shop fixes, 67-destination Teleport Codex, and Casino Blackjack Double Down & session sync"
 }
