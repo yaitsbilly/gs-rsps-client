@@ -1,12 +1,12 @@
 {
-  "version": "3.8.7",
-  "title": "GirSociety Client v3.8.7",
+  "version": "3.8.8",
+  "title": "GirSociety Client v3.8.8",
   "name": "GirSociety Standalone Client (Rev 242)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.8.7/GS-Client-Version-3.8.7.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.8.8/GS-Client-Version-3.8.8.jar",
   "fallback_urls": [
-    "https://github.com/yaitsbilly/gs-rsps-client/releases/latest/download/GS-Client-Version-3.8.7.jar"
+    "https://github.com/yaitsbilly/gs-rsps-client/releases/latest/download/GS-Client-Version-3.8.8.jar"
   ],
-  "sha256": "f31764552b346defb59a0eb19bd43bc096c98087be40ffacc9283b1c0284b12b",
+  "sha256": "21d016bbaeb6e8510d7ddff43d4744e202d59bbe570df05f5209854424d20497",
   "min_java": 11,
-  "changelog": "Fixed Rev 242 CHAT_SEND script packet permission error across custom UI commands and live admin bot sync"
+  "changelog": "Fit Admin Panel cleanly inside Fixed Mode (750x488) with canvas clamping and hide compact HUD while panel is open"
 }
