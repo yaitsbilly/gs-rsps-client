@@ -1,12 +1,12 @@
 {
-  "version": "3.8.6",
-  "title": "GirSociety Client v3.8.6",
+  "version": "3.8.7",
+  "title": "GirSociety Client v3.8.7",
   "name": "GirSociety Standalone Client (Rev 242)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.8.6/GS-Client-Version-3.8.6.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.8.7/GS-Client-Version-3.8.7.jar",
   "fallback_urls": [
-    "https://github.com/yaitsbilly/gs-rsps-client/releases/latest/download/GS-Client-Version-3.8.6.jar"
+    "https://github.com/yaitsbilly/gs-rsps-client/releases/latest/download/GS-Client-Version-3.8.7.jar"
   ],
-  "sha256": "2e480120636c0afd89531af2502b1764321f8952e8fb113216fdae17e17c1b0a",
+  "sha256": "f31764552b346defb59a0eb19bd43bc096c98087be40ffacc9283b1c0284b12b",
   "min_java": 11,
-  "changelog": "Added ambient player bot system and live admin world monitor"
+  "changelog": "Fixed Rev 242 CHAT_SEND script packet permission error across custom UI commands and live admin bot sync"
 }
