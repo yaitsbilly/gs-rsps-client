@@ -1,12 +1,12 @@
 {
-  "version": "3.8.0",
-  "title": "GirSociety Client v3.8.0 (Rev 241 - Custom Menus Overhaul)",
-  "name": "GirSociety Standalone Client (Rev 241)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.8.0/GS-Client-Version-3.8.0.jar",
+  "version": "3.8.6",
+  "title": "GirSociety Client v3.8.6",
+  "name": "GirSociety Standalone Client (Rev 242)",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.8.6/GS-Client-Version-3.8.6.jar",
   "fallback_urls": [
-    "https://github.com/yaitsbilly/gs-rsps-client/releases/latest/download/GS-Client-Version-3.8.0.jar"
+    "https://github.com/yaitsbilly/gs-rsps-client/releases/latest/download/GS-Client-Version-3.8.6.jar"
   ],
-  "sha256": "3e46df8add8e4def2b68b5365fc0a4f85aa1e629088309f72d52f12ca9fc1c00",
+  "sha256": "2e480120636c0afd89531af2502b1764321f8952e8fb113216fdae17e17c1b0a",
   "min_java": 11,
-  "changelog": "Overhaul all 9 Gir-Society custom menus & server systems: Custom-only GE & 4,558-item arbitrage-free market, 24 active Prestige perks & Prestige Shop, 63-boss Codex with persistent KC & Wildy guards, 75-recipe Forge & Salvage Codex with icons, 90 cache-verified Pets with persistent followers, scrollable Mystery Crates, Daily Shop fixes, 67-destination Teleport Codex, and Casino Blackjack Double Down & session sync"
+  "changelog": "Added ambient player bot system and live admin world monitor"
 }
