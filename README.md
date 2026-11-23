@@ -1,19 +1,19 @@
-# Gir-Society RSPS — Rev 241 Server & Client
+# Gir-Society RSPS — Rev 242 Server & Client
 
-[![OSRS Revision](https://img.shields.io/badge/OSRS%20Revision-241-blue.svg?style=for-the-badge&logo=runescape)](https://github.com/yaitsbilly/gs-rsps-client)
+[![OSRS Revision](https://img.shields.io/badge/OSRS%20Revision-242-blue.svg?style=for-the-badge&logo=runescape)](https://github.com/yaitsbilly/gs-rsps-client)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/girsociety)
-[![Engine](https://img.shields.io/badge/Client%20Engine-RuneLite%201.13.4-orange.svg?style=for-the-badge)](https://github.com/yaitsbilly/gs-rsps-client)
-[![Latest Client](https://img.shields.io/badge/Client%20Build-v3.8.0-brightgreen.svg?style=for-the-badge)](https://github.com/yaitsbilly/gs-rsps-client/releases)
+[![Engine](https://img.shields.io/badge/Client%20Engine-RuneLite%201.13.6-orange.svg?style=for-the-badge)](https://github.com/yaitsbilly/gs-rsps-client)
+[![Latest Client](https://img.shields.io/badge/Client%20Build-v3.8.5-brightgreen.svg?style=for-the-badge)](https://github.com/yaitsbilly/gs-rsps-client/releases)
 [![Auto Update](https://img.shields.io/badge/Auto--Update-GitHub%20Releases-green.svg?style=for-the-badge&logo=github)](https://github.com/yaitsbilly/gs-rsps-client/releases)
 [![License](https://img.shields.io/badge/License-ISC-purple.svg?style=for-the-badge)](https://github.com/yaitsbilly/gs-rsps-client)
 
-Welcome to **GirSociety**, a premier Old School RuneScape (OSRS) private game server emulator built on a high-performance **OSRS Revision 241** engine (`RuneLite 1.13.4`). GirSociety blends authentic, bleeding-edge OSRS content (Varlamore, Sailing #23, Desert Treasure 2, Project Rebalance) with an expansive suite of custom systems, crafting engines, pinnacle bosses, mystery crate codex, unique relics, pets, and quality-of-life enhancements.
+Welcome to **GirSociety**, a premier Old School RuneScape (OSRS) private game server emulator built on a high-performance **OSRS Revision 242** engine (`RuneLite 1.13.6`). GirSociety blends authentic, bleeding-edge OSRS content (Varlamore, Sailing #23, Desert Treasure 2, Project Rebalance) with an expansive suite of custom systems, crafting engines, pinnacle bosses, mystery crate codex, unique relics, pets, and quality-of-life enhancements.
 
 ---
 
 ## 🌟 Key Server Highlights & Features
 
-### ⚔️ 1. Pinnacle Bosses & Custom Encounters (121 Bosses & Mobs)
+### ⚔️ 1. Pinnacle Bosses & Custom Encounters (122 Boss Packages & Custom World Bosses)
 Experience fully scripted, mechanically accurate pinnacle bosses along with custom world bosses:
 * **Varlamore & Modern Encounters**: The Hueycoatl (Custodia Mountain arena, armor-break mechanics), Amoxliatl, Moons of Peril (Blood Moon, Blue Moon, Eclipse Moon), Scurrius, Araxxor, and Tormented Demons.
 * **Desert Treasure 2 Bosses**: Vardorvis, Duke Sucellus, The Leviathan, and The Whisperer with complete phase shifts, projectile states, and sanity mechanics.
@@ -27,14 +27,14 @@ An interactive unboxing minigame and reward economy integrated across the entire
 * **5 Crate Tiers**: Bronze Supply, Silver Skilling, Gold Combat, Diamond Boss, and Mythic Celestial.
 * **Virtual Key Management**: Players collect and store keys directly on their accounts without consuming inventory space.
 * **Animated 60 FPS Carousel Unboxing**: Physics-based deceleration easing, authentic tick sound effects, colored rarity glows (*Common, Uncommon, Rare, Epic, Legendary, Mythic*), and winning item spotlight.
-* **Jackpots & High-Tier Loot**: Scaled coin payouts (up to 5M GP jackpot) alongside 3rd Age relics, Torva/Masori pieces, Dragon Warhammers, and Mega-rare weapons.
+* **Jackpots & High-Tier Loot**: Scaled coin payouts (up to 2.5M GP Mythic jackpot) alongside 3rd Age relics, Torva/Masori pieces, Dragon Warhammers, and Mega-rare weapons.
 * **Cross-System Acquisition**: Earn keys through daily task milestones, 99 skill prestige resets, pinnacle boss drops, and voting.
 
 ---
 
-### ⚒️ 3. Gir-Society Item Codex & Custom Multi-Station Crafting
-GirSociety features a curated, 100% functional crafting and upgrade codex with **75 cache-verified recipes** (`::items` / `::craft` / `::forge` / `::codex`):
-* **7 Comprehensive Codex Tabs**: `All Items`, `⚒ Weapons`, `🛡 Armour`, `⛏ Skilling Tools`, `🧪 Alloys & Bars`, `💎 Infusions`, and `🍖 Food & Potions` with item icons, live backpack readiness checks, and interactive `[⚒ Forge / Craft]` & `[♻ Salvage]` buttons.
+### ⚒️ 3. Gir-Society Artisan Forge & Production Codex (566 Recipes)
+GirSociety features a unified, 6-station crafting and production codex with **566 cache-verified recipes** (including 79 custom Codex entries) (`::items` / `::craft` / `::forge` / `::codex` / `::produce`):
+* **7 Station Tabs + Live Readiness**: `All`, `⚒ Anvil`, `🔥 Furnace`, `🍖 Cooking`, `💎 Crafting`, `🏹 Fletching`, and `🧪 Herblore` with dynamic sub-category pills, `[✔ Ready Only]` live checks, batch quantity selectors (`1`, `5`, `10`, `X`, `All`), and interactive producing/salvaging actions.
 * **Combat Stats & Mechanics**: Live equipment combat stats grid (Stab/Slash/Crush/Magic/Ranged bonuses, Melee/Ranged strength, Magic dmg %, Prayer, Speed).
 * **Item Infusion & Empowerment**: Combine rare boss drops with base gear to forge fortified and infused equipment (Godswords, Abyssal Tentacles, Avernic/Primordial/Pegasian/Eternal upgrades, Fortified Masori, Torva, Rancour, Bellator/Ultor/Venator/Magus).
 * **Salvage & Dismantling**: Break down surplus forged or upgraded equipment with 75% material recovery.
@@ -43,15 +43,15 @@ GirSociety features a curated, 100% functional crafting and upgrade codex with *
 
 ### 🐾 4. Gir-Society Pets Codex & Follower System (90 Companions)
 A comprehensive companion system supporting lore, summon animations, Probita auto-insurance, and persistent logout/relog follower tracking (`::pets` / `::pet` / `::petcodex`):
-* **5 Companion Categories**: `Boss Pets`, `🌲 Skilling Pets`, `⚔ Custom Pets`, `📦 Crate / Minigames`, and `★ My Collection`.
+* **5 Companion Categories**: `Boss & Raid Pets`, `🌲 Skilling Pets`, `⚔ Gir-Society Boss Pets`, `📦 Crate & Minigame Pets`, and `★ My Collection`.
 * **Standard & Varlamore Pets**: Huey, Nid, Scurry, Amoxliatl Pet, Quetzal, Tiny Tempor, Abyssal Protector, Muphin, Wisp, Butch, Baron, Lil' Viathan, Lil' Creator, and all classic skilling, raid & boss pets.
 * **Custom Boss Companion Pets**: Unique cache-verified follower pets across all 25 Gir-Society world bosses with automatic Probita insurance.
 * **Live Unlock Tracker**: Persistent server-synced account tracker (`[PETS_SYNC]`) across backpack, bank, and active follower (`✔ X / 90`).
 
 ---
 
-### 📜 5. Gir-Society Bosses Codex & Drop Directory (63 Bosses)
-* **4 Tier Tabs + Source Filters**: Organized into `Leveling`, `Mid-Tier`, `High-Tier`, and `Mythic` progression categories across **25 ★ Gir-Society** and **38 OSRS Bosses** (`::bosses`).
+### 📜 5. Gir-Society Bosses Codex & Drop Directory (63 Profiles)
+* **4 Tier Tabs + Source Filters**: Organized into `Leveling`, `Mid-Tier`, `High-Tier`, and `Mythic` progression categories across **25 ★ Gir-Society** and **38 OSRS Bosses** (`65` server specs total) (`::bosses`).
 * **Live Persistent Kill Count Tracker**: Server-persisted kill counter (`☠ Kill Count: X`) displayed directly on each boss's showcase view (`[GIR_KC_SYNC]`).
 * **Full Drop Tables & Safe Lair Teleports**: Signature relics, unique boss pets, noted supply drops, tier-scaled Mystery Crate keys, and `⚡ Teleport to Lair` with Wilderness confirmation guards.
 * **In-Game `::wiki <query>`**: Instant command linking player queries directly to verified combat stats, weaknesses, and drop tables.
@@ -70,7 +70,7 @@ A comprehensive companion system supporting lore, summon animations, Probita aut
 Master your skills to Level 99 and reset them through **10 prestige tiers** to unlock **24 real gameplay perks** (`::prestige` / `::pshop`):
 * **Combat & Slayer Masteries**: Scaling accuracy, max hit, PvM damage soak, Prayer drain reduction (`-2%/rank`), out-of-combat HP regen, Ranged ammo save, Magic rune save, and bonus Slayer task points.
 * **Skilling & Gathering Masteries**: Double log/ore/fish/herb/rune procs, Smithing bar save, Herblore secondary save, Cooking burn immunity, Agility run restore, and Thieving coin multipliers.
-* **Integrated Prestige Shop**: Redeem Prestige Points directly in the UI for Supply Packs, 50k XP Lamps, Mystery Caskets,GP Pouches, and automatic Silver/Diamond/Mythic Crate Key milestones.
+* **Integrated Prestige Shop**: Redeem Prestige Points directly in the UI for Supply Packs, 50k XP Lamps, Mystery Caskets, GP Pouches, and automatic Silver/Diamond/Mythic Crate Key milestones.
 
 ---
 
@@ -108,9 +108,9 @@ Server-verified wagering games with atomic balance checks and anti-scam guards (
 ---
 
 ### 🛡️ 12. Staff Management Studio, Botting Studio & 3D World Editor
-* **Admin Control Panel (`F6` Hotkey, Staff-Gated)**: Complete in-client management studio featuring real-time player directory, interactive moderation suite (kick/mute/ban with modal confirmation), 24-skill XP & level studio, and searchable Item Spawner catalog.
-* **Gir-Society Botting Studio (`F7` Hotkey)**: GUI task orchestration, barrier-aware highway navigation, looting, and banking available to all players.
-* **In-Game World & Spawn Studio (`F8` Hotkey, Staff-Gated)**: 3D scene editor allowing developers and admins to place/remove objects, spawn NPCs, visualize bounding boxes, and export map definitions directly to JSON.
+* **Admin Control Panel (`Ctrl+F6` Hotkey, Staff-Gated)**: Complete in-client management studio featuring real-time player directory, interactive moderation suite (kick/mute/ban with modal confirmation), 24-skill XP & level studio, and searchable Item Spawner catalog.
+* **Gir-Society Botting Studio (`Ctrl+F7` Hotkey)**: GUI task orchestration, barrier-aware highway navigation, looting, and banking available to all players with client-side Wilderness/PKer auto-stop safeguards (`::btele`/`::bbank` are admin-gated on server).
+* **In-Game World & Spawn Studio (`Ctrl+F8` Hotkey, `admin`/`owner` Staff-Gated)**: 3D scene editor allowing admins to place/remove objects, spawn NPCs, visualize bounding boxes, and export map definitions directly to JSON/TOML.
 
 ---
 
@@ -121,7 +121,7 @@ Download [`GirSocietyLauncher.jar`](https://github.com/yaitsbilly/gs-rsps-client
 
 ### 2. Launch & Auto-Update
 * Double-click `GirSocietyLauncher.jar` (or run `java -jar GirSocietyLauncher.jar`).
-* The launcher automatically checks GitHub for updates, downloads the newest client release asset, verifies SHA-256 + ZIP integrity, and launches into the game.
+* The launcher automatically checks GitHub for updates, downloads the newest client release asset over HTTPS, verifies SHA-256 + ZIP integrity, and launches into the game.
 * **Offline Support**: If GitHub is unreachable, the launcher automatically starts the locally cached client from `%USERPROFILE%\.girsociety\client.jar`.
 
 ### 3. System Requirements
@@ -134,7 +134,7 @@ Download [`GirSocietyLauncher.jar`](https://github.com/yaitsbilly/gs-rsps-client
 
 ```mermaid
 graph LR
-    A[Client Build JAR] -->|upload_release_to_github.py| B[GitHub Releases & Client/version.json]
+    A[Client Build JAR] -->|upload_release_to_github.py| B[GitHub Releases & version.json]
     B -->|Checks on startup| C[GirSocietyLauncher.jar]
     C -->|New version found| D[Downloads & Verifies SHA-256 + ZIP]
     D -->|Caches to local profile| E[%USERPROFILE%/.girsociety/client.jar]
@@ -152,5 +152,4 @@ All official client builds are versioned following Semantic Versioning (`v3.8.x`
 ## 💬 Community & Support
 * **Official Discord**: Join our Discord server for updates, announcements, support, and community discussions: [**https://discord.gg/girsociety**](https://discord.gg/girsociety)
 * **GitHub Issues**: Report client bugs or crashes via the [Issues tab](https://github.com/yaitsbilly/gs-rsps-client/issues).
-* **Server Status**: Default server endpoint connects to port `43594` on Revision 241.
-
+* **Server Status**: Default server endpoint connects to port `43594` on Revision 242.
