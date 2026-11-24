@@ -1,12 +1,12 @@
 {
-  "version": "3.9.2",
-  "title": "GirSociety Client v3.9.2",
+  "version": "3.9.3",
+  "title": "GirSociety Client v3.9.3",
   "name": "GirSociety Standalone Client (Rev 242)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.9.2/GS-Client-Version-3.9.2.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.9.3/GS-Client-Version-3.9.3.jar",
   "fallback_urls": [
-    "https://github.com/yaitsbilly/gs-rsps-client/releases/latest/download/GS-Client-Version-3.9.2.jar"
+    "https://github.com/yaitsbilly/gs-rsps-client/releases/latest/download/GS-Client-Version-3.9.3.jar"
   ],
-  "sha256": "149e80c30279818b20d08afe61a4d5e9bc49216c3c1902de77ad80ec9ab6a94e",
+  "sha256": "b0a25a6349280edcf26895535568fefcdf6b59b6c01fddc8195373ed7affc1d8",
   "min_java": 11,
-  "changelog": "Add distance-based GP teleport fees (inv/bank deduction, dungeon surface-entrance distance mapping, live GP costs in Teleport Codex, Journal quick-teleports, and Boss Guide)"
+  "changelog": "- Teleport & Boss Codex: Added 12 missing OSRS boss destinations to ::bosstele (fixing scorpia substring-matching corp), synced Edgeville & Waterbirth dungeon GP projections, aligned Admin Free fee display & Wildy arrival levels, and enabled live GP teleport cost previews for all 63 bosses in the Boss Codex.\n- Crafting & Forge Codex: Synced GP forge fees (250-150,000 GP) across all 35 custom Gir-Society recipes, aligned Hammer/Anvil requirements for godsword_blade, elidinis_ward_f, and voidwaker, and restored Boss Forging Core drops (Sovereign, Abyssal, Primordial) across all 20 Adept-Apex Gir-Society bosses.\n- Prestige Codex: Added ::mastery server alias, unified Rank 10 secondary perk & Slayer point formatting in the Codex UI, and aligned server/client perk & shop descriptions 1:1."
 }
