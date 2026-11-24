@@ -1,12 +1,12 @@
 {
-  "version": "3.9.0",
-  "title": "GirSociety Client v3.9.0",
+  "version": "3.9.1",
+  "title": "GirSociety Client v3.9.1",
   "name": "GirSociety Standalone Client (Rev 242)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.9.0/GS-Client-Version-3.9.0.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.9.1/GS-Client-Version-3.9.1.jar",
   "fallback_urls": [
-    "https://github.com/yaitsbilly/gs-rsps-client/releases/latest/download/GS-Client-Version-3.9.0.jar"
+    "https://github.com/yaitsbilly/gs-rsps-client/releases/latest/download/GS-Client-Version-3.9.1.jar"
   ],
-  "sha256": "a9237cfe9cbaf1aec11d70f8b7826f918fa054bf78b8b7dbabe59ce32a80fd08",
+  "sha256": "0106b812ca94397767f279cc7598f82e56c9efaac573ce745c82325c580f6fc3",
   "min_java": 11,
-  "changelog": "Admin Panel fixed-mode vertical fit (Moderation, Skills, Items) and clickable numeric inputs for Bots & World (Cap, PerP, Rad, Chat%)"
+  "changelog": "Fix missing ore requirements and readiness dots for standard furnace bar recipes in the Artisan & Production Codex"
 }
