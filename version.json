@@ -1,12 +1,12 @@
 {
-  "version": "3.8.10",
-  "title": "GirSociety Client v3.8.10",
+  "version": "3.8.11",
+  "title": "GirSociety Client v3.8.11",
   "name": "GirSociety Standalone Client (Rev 242)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.8.10/GS-Client-Version-3.8.10.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.8.11/GS-Client-Version-3.8.11.jar",
   "fallback_urls": [
-    "https://github.com/yaitsbilly/gs-rsps-client/releases/latest/download/GS-Client-Version-3.8.10.jar"
+    "https://github.com/yaitsbilly/gs-rsps-client/releases/latest/download/GS-Client-Version-3.8.11.jar"
   ],
-  "sha256": "6e531ed0c365bb668c5f63fbf9159b3050d31bd01afc2401865bcdd2b13a4a48",
+  "sha256": "0808ea34d376dda1806d95991a01b36e0ee82cd1f2a854fb134c91b9a29d7283",
   "min_java": 11,
-  "changelog": "Fixed Admin Panel Moderation, Skills, and Items tab vertical fit inside Fixed Mode (750x488)"
+  "changelog": "Made Bots & World Cap, PerP, Rad, and Chat% values clickable numeric inputs"
 }
