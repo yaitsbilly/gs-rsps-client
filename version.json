@@ -1,12 +1,12 @@
 {
-  "version": "3.9.3",
-  "title": "GirSociety Client v3.9.3",
+  "version": "3.9.4",
+  "title": "GirSociety Client v3.9.4",
   "name": "GirSociety Standalone Client (Rev 242)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.9.3/GS-Client-Version-3.9.3.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.9.4/GS-Client-Version-3.9.4.jar",
   "fallback_urls": [
-    "https://github.com/yaitsbilly/gs-rsps-client/releases/latest/download/GS-Client-Version-3.9.3.jar"
+    "https://github.com/yaitsbilly/gs-rsps-client/releases/latest/download/GS-Client-Version-3.9.4.jar"
   ],
-  "sha256": "b0a25a6349280edcf26895535568fefcdf6b59b6c01fddc8195373ed7affc1d8",
+  "sha256": "5a94a31737821345737f76c0d5eafbede542f0a200179b9e1835e0323cbddcc1",
   "min_java": 11,
-  "changelog": "- Teleport & Boss Codex: Added 12 missing OSRS boss destinations to ::bosstele (fixing scorpia substring-matching corp), synced Edgeville & Waterbirth dungeon GP projections, aligned Admin Free fee display & Wildy arrival levels, and enabled live GP teleport cost previews for all 63 bosses in the Boss Codex.\n- Crafting & Forge Codex: Synced GP forge fees (250-150,000 GP) across all 35 custom Gir-Society recipes, aligned Hammer/Anvil requirements for godsword_blade, elidinis_ward_f, and voidwaker, and restored Boss Forging Core drops (Sovereign, Abyssal, Primordial) across all 20 Adept-Apex Gir-Society bosses.\n- Prestige Codex: Added ::mastery server alias, unified Rank 10 secondary perk & Slayer point formatting in the Codex UI, and aligned server/client perk & shop descriptions 1:1."
+  "changelog": "- Gambling & Casino Overhaul: Added Blackjack Split & Surrender + Soft totals, custom Dice targets (25+/55+/75+/90+), Mines 1-24 bomb stepper, Random Pick, next-tile odds & post-cashout ghost bombs, structured sync tags for all games, live Inventory GP & Escrow Claim button, high-roller betting rack with clickable shorthand wager input, Session P&L tracker, visual Dice bar / Gold Coin / petaled Flowers / clean Cards, working optional minimap button, ESC/scroll blocking, and fixed capacity, cashout, right-click, and text overflow bugs."
 }
