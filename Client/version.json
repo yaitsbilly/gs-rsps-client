@@ -1,12 +1,12 @@
 {
-  "version": "3.8.9",
-  "title": "GirSociety Client v3.8.9",
+  "version": "3.8.10",
+  "title": "GirSociety Client v3.8.10",
   "name": "GirSociety Standalone Client (Rev 242)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.8.9/GS-Client-Version-3.8.9.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.8.10/GS-Client-Version-3.8.10.jar",
   "fallback_urls": [
-    "https://github.com/yaitsbilly/gs-rsps-client/releases/latest/download/GS-Client-Version-3.8.9.jar"
+    "https://github.com/yaitsbilly/gs-rsps-client/releases/latest/download/GS-Client-Version-3.8.10.jar"
   ],
-  "sha256": "6338d96e848b8bbe111564907157b835162bc90dfa3181c88b0a92f6e0816585",
+  "sha256": "6e531ed0c365bb668c5f63fbf9159b3050d31bd01afc2401865bcdd2b13a4a48",
   "min_java": 11,
-  "changelog": "Admin-only RBAC on Admin Panel/HUD/Bots, 1-click HUD dismiss button, higher bot population limits (500 cap / 150 per-player), and Bots & World stepper tooltips"
+  "changelog": "Fixed Admin Panel Moderation, Skills, and Items tab vertical fit inside Fixed Mode (750x488)"
 }
