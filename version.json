@@ -6,7 +6,7 @@
   "fallback_urls": [
     "https://github.com/yaitsbilly/gs-rsps-client/releases/latest/download/GS-Client-Version-3.9.2.jar"
   ],
-  "sha256": "c91b43c507f01f1b8ddc1785fc5888e9b081fdb9c1f0455b0def1060d80053f7",
+  "sha256": "149e80c30279818b20d08afe61a4d5e9bc49216c3c1902de77ad80ec9ab6a94e",
   "min_java": 11,
-  "changelog": "Phase 1 & 2 Custom Crafting Rebalance: buffed all 19 early custom items, added Novice Chisel perk & salvage safety, plus 19 new Adept-to-Apex boss-forged custom gear items and boss cores"
+  "changelog": "Add distance-based GP teleport fees (inv/bank deduction, dungeon surface-entrance distance mapping, live GP costs in Teleport Codex, Journal quick-teleports, and Boss Guide)"
 }
