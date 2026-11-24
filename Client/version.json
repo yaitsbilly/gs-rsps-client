@@ -6,7 +6,7 @@
   "fallback_urls": [
     "https://github.com/yaitsbilly/gs-rsps-client/releases/latest/download/GS-Client-Version-3.9.2.jar"
   ],
-  "sha256": "55004d5c43d59983d5a4cc5ef0b54129f1d00d6d86577a2f7724fc9f5a3bbed0",
+  "sha256": "c91b43c507f01f1b8ddc1785fc5888e9b081fdb9c1f0455b0def1060d80053f7",
   "min_java": 11,
-  "changelog": "Prestige Codex UI overhaul (vector stars, skill icons, zero text overflow, 2-click shop confirmation, category ready badges) and synced prestige perks"
+  "changelog": "Phase 1 & 2 Custom Crafting Rebalance: buffed all 19 early custom items, added Novice Chisel perk & salvage safety, plus 19 new Adept-to-Apex boss-forged custom gear items and boss cores"
 }
