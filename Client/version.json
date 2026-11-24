@@ -1,12 +1,12 @@
 {
-  "version": "3.9.1",
-  "title": "GirSociety Client v3.9.1",
+  "version": "3.9.2",
+  "title": "GirSociety Client v3.9.2",
   "name": "GirSociety Standalone Client (Rev 242)",
-  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.9.1/GS-Client-Version-3.9.1.jar",
+  "download_url": "https://github.com/yaitsbilly/gs-rsps-client/releases/download/v3.9.2/GS-Client-Version-3.9.2.jar",
   "fallback_urls": [
-    "https://github.com/yaitsbilly/gs-rsps-client/releases/latest/download/GS-Client-Version-3.9.1.jar"
+    "https://github.com/yaitsbilly/gs-rsps-client/releases/latest/download/GS-Client-Version-3.9.2.jar"
   ],
-  "sha256": "0106b812ca94397767f279cc7598f82e56c9efaac573ce745c82325c580f6fc3",
+  "sha256": "55004d5c43d59983d5a4cc5ef0b54129f1d00d6d86577a2f7724fc9f5a3bbed0",
   "min_java": 11,
-  "changelog": "Fix missing ore requirements and readiness dots for standard furnace bar recipes in the Artisan & Production Codex"
+  "changelog": "Prestige Codex UI overhaul (vector stars, skill icons, zero text overflow, 2-click shop confirmation, category ready badges) and synced prestige perks"
 }
